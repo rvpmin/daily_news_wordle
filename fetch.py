@@ -1,5 +1,6 @@
 import requests
 import os
+import json
 
 api_key = os.getenv("NYT_API_KEY")
 if not api_key:
@@ -13,9 +14,10 @@ params={
 response = requests.get(url,params=params)
 
 if response.status_code == 200:
-    data = response.json
+    data = response.json()
     print("Datos recibidos:")
     print(data)
 else:
     print(f'Error: {response.status_code}')
     print(response.text)
+

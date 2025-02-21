@@ -1,0 +1,1291 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+      {
+        "uri": "nyt://article/9b0d816a-d9ea-5618-95d1-de8105765913",
+        "url": "https://www.nytimes.com/2025/02/20/world/middleeast/israel-hamas-hostages-bodies.html",
+        "id": 100000010001062,
+        "asset_id": 100000010001062,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-21 09:37:51",
+        "section": "World",
+        "subsection": "Middle East",
+        "nytdsection": "world",
+        "adx_keywords": "Israel-Gaza War (2023- );Kidnapping and Hostages;Deaths (Fatalities);Terrorism;Defense and Military Forces;Peace Process;Bibas, Shiri;Hamas;Gaza Strip;Israel",
+        "column": null,
+        "byline": "By Aaron Boxerman and Rawan Sheikh Ahmad",
+        "type": "Article",
+        "title": "With Coffins and Taunts, Hamas Hands Dead Hostages to Israel",
+        "abstract": "Hamas said it handed over four hostages to Israel in a display a senior U.N. official called “abhorrent and cruel.” Israel later said only three bodies belonged to captives.",
+        "des_facet": [
+          "Israel-Gaza War (2023- )",
+          "Kidnapping and Hostages",
+          "Deaths (Fatalities)",
+          "Terrorism",
+          "Defense and Military Forces",
+          "Peace Process"
+        ],
+        "org_facet": [
+          "Hamas"
+        ],
+        "per_facet": [
+          "Bibas, Shiri"
+        ],
+        "geo_facet": [
+          "Gaza Strip",
+          "Israel"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Saher Alghorra for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20mideast-ledeall-HP/20mideast-ledeall-HP-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20mideast-ledeall-HP/20mideast-ledeall-HP-mediumThreeByTwo210-v3.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20mideast-ledeall-HP/20mideast-ledeall-HP-mediumThreeByTwo440-v3.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/3d623c08-8540-5051-8f51-5a7a76cdd4d2",
+        "url": "https://www.nytimes.com/2025/02/20/opinion/trump-putin-ukraine-europe.html",
+        "id": 100000009998170,
+        "asset_id": 100000009998170,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-21 10:16:02",
+        "section": "Opinion",
+        "subsection": "",
+        "nytdsection": "opinion",
+        "adx_keywords": "United States International Relations;United States Politics and Government;Russian Invasion of Ukraine (2022);audio-neutral-informative;Trump, Donald J;Putin, Vladimir V;Zelensky, Volodymyr;Xi Jinping;North Atlantic Treaty Organization;Europe;Russia;Ukraine;China",
+        "column": null,
+        "byline": "By Thomas L. Friedman, Patrick Healy and Jillian Weinberger",
+        "type": "Article",
+        "title": "Thomas Friedman on Trump’s Desire to Be President for Life",
+        "abstract": "The president wants to create a revolution abroad. This Opinion columnist would love to see a plan.",
+        "des_facet": [
+          "United States International Relations",
+          "United States Politics and Government",
+          "Russian Invasion of Ukraine (2022)",
+          "audio-neutral-informative"
+        ],
+        "org_facet": [
+          "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+          "Trump, Donald J",
+          "Putin, Vladimir V",
+          "Zelensky, Volodymyr",
+          "Xi Jinping"
+        ],
+        "geo_facet": [
+          "Europe",
+          "Russia",
+          "Ukraine",
+          "China"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by The New York Times; photograph by Andrew Harnik/Getty",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/opinion/20opinions-healy-friedman/20opinions-healy-friedman-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/opinion/20opinions-healy-friedman/20opinions-healy-friedman-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/opinion/20opinions-healy-friedman/20opinions-healy-friedman-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/b7efc974-1751-55bf-997f-2777579bec87",
+        "url": "https://www.nytimes.com/2025/02/20/opinion/germany-elections-afd.html",
+        "id": 100000009969922,
+        "asset_id": 100000009969922,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-21 10:19:19",
+        "section": "Opinion",
+        "subsection": "",
+        "nytdsection": "opinion",
+        "adx_keywords": "Right-Wing Extremism and Alt-Right;Holocaust and the Nazi Era;Politics and Government;World War II (1939-45);Neo Nazi Groups;Elections;your-feed-opinionvideo;Alternative for Germany;Germany",
+        "column": null,
+        "byline": "By Jan Böhmermann",
+        "type": "Article",
+        "title": "The Far Right Is Rising in the Land of ‘Never Again’",
+        "abstract": "Germany’s attempts to “remember away” its Nazi past has instead paved the way for an extremist resurgence.",
+        "des_facet": [
+          "Right-Wing Extremism and Alt-Right",
+          "Holocaust and the Nazi Era",
+          "Politics and Government",
+          "World War II (1939-45)",
+          "Neo Nazi Groups",
+          "Elections",
+          "your-feed-opinionvideo"
+        ],
+        "org_facet": [
+          "Alternative for Germany"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "Germany"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "approved_for_syndication": 0,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/autossell/op-germans-thumb/op-germans-thumb-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/autossell/op-germans-thumb/op-germans-thumb-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/autossell/op-germans-thumb/op-germans-thumb-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/582c7301-3209-5703-881a-aefbfd3d3eb8",
+        "url": "https://www.nytimes.com/2025/02/19/us/politics/trump-king-image.html",
+        "id": 100000009999962,
+        "asset_id": 100000009999962,
+        "source": "New York Times",
+        "published_date": "2025-02-19",
+        "updated": "2025-02-20 10:34:14",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Congestion Pricing;Federal-State Relations (US);United States Politics and Government;Presidential Power (US);Hochul, Kathleen C;Trump, Donald J;Metropolitan Transportation Authority;New York City;New York State",
+        "column": null,
+        "byline": "By Benjamin Oreskes",
+        "type": "Article",
+        "title": "‘Long Live the King’: Trump Likens Himself to Royalty on Truth Social",
+        "abstract": "A fondness for regal themes was apparent as the president applauded his administration’s move to kill congestion pricing in New York.",
+        "des_facet": [
+          "Congestion Pricing",
+          "Federal-State Relations (US)",
+          "United States Politics and Government",
+          "Presidential Power (US)"
+        ],
+        "org_facet": [
+          "Metropolitan Transportation Authority"
+        ],
+        "per_facet": [
+          "Hochul, Kathleen C",
+          "Trump, Donald J"
+        ],
+        "geo_facet": [
+          "New York City",
+          "New York State"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "President Trump at his Mar-a-Lago private club and residence in Palm Beach, Fla., on Tuesday.",
+            "copyright": "Al Drago for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19trump-news-trump-king-02-lpfj/19trump-news-trump-king-02-lpfj-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19trump-news-trump-king-02-lpfj/19trump-news-trump-king-02-lpfj-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19trump-news-trump-king-02-lpfj/19trump-news-trump-king-02-lpfj-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/44546178-6d0b-5b5e-8246-a1dce1c95db4",
+        "url": "https://www.nytimes.com/2025/02/19/us/politics/trump-ukraine-russia-republicans.html",
+        "id": 100000009999706,
+        "asset_id": 100000009999706,
+        "source": "New York Times",
+        "published_date": "2025-02-19",
+        "updated": "2025-02-20 22:02:37",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Russian Invasion of Ukraine (2022);United States International Relations;United States Politics and Government;Foreign Aid;Defense and Military Forces;Putin, Vladimir V;Zelensky, Volodymyr;Trump, Donald J;Republican Party;Senate;Russia;Ukraine",
+        "column": null,
+        "byline": "By Robert Jimison",
+        "type": "Article",
+        "title": "As Trump Turns Toward Russia and Against Ukraine, Republicans Are Mum",
+        "abstract": "Congressional Republicans have mostly tempered their criticism or deferred to the president as he topples what were once their party’s core foreign policy principles.",
+        "des_facet": [
+          "Russian Invasion of Ukraine (2022)",
+          "United States International Relations",
+          "United States Politics and Government",
+          "Foreign Aid",
+          "Defense and Military Forces"
+        ],
+        "org_facet": [
+          "Republican Party",
+          "Senate"
+        ],
+        "per_facet": [
+          "Putin, Vladimir V",
+          "Zelensky, Volodymyr",
+          "Trump, Donald J"
+        ],
+        "geo_facet": [
+          "Russia",
+          "Ukraine"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A few Republicans, including Senator Roger Wicker of Mississippi, the chairman of the Armed Services Committee, have made clear they do not agree with the president’s approach but have taken pains not to criticize him.",
+            "copyright": "Haiyun Jiang for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19dc-repubs1-zfcb/19dc-repubs1-zfcb-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19dc-repubs1-zfcb/19dc-repubs1-zfcb-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19dc-repubs1-zfcb/19dc-repubs1-zfcb-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/6bdde12d-371e-569a-a0d8-2334e51da1ff",
+        "url": "https://www.nytimes.com/2025/02/18/us/barron-trump-nyu-college-republicans.html",
+        "id": 100000009997865,
+        "asset_id": 100000009997865,
+        "source": "New York Times",
+        "published_date": "2025-02-18",
+        "updated": "2025-02-21 08:43:38",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "United States Politics and Government;Colleges and Universities;Conservatism (US Politics);Presidential Election of 2024;Organizations, Societies and Clubs;Magazines;Trump, Barron (2006- );Trump, Donald J;College Republicans;New York University;Republican Party;Vanity Fair",
+        "column": null,
+        "byline": "By Neil Vigdor",
+        "type": "Article",
+        "title": "N.Y.U. College Republicans President Resigns After Remarks About Barron Trump",
+        "abstract": "The leader of the national organization said that the university chapter’s president had not been authorized to speak with Vanity Fair for a profile in which she said President Trump’s youngest son was “sort of like an oddity on campus.”",
+        "des_facet": [
+          "United States Politics and Government",
+          "Colleges and Universities",
+          "Conservatism (US Politics)",
+          "Presidential Election of 2024",
+          "Organizations, Societies and Clubs",
+          "Magazines"
+        ],
+        "org_facet": [
+          "College Republicans",
+          "New York University",
+          "Republican Party",
+          "Vanity Fair"
+        ],
+        "per_facet": [
+          "Trump, Barron (2006- )",
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Barron Trump, son of President Trump, at the inaugural parade in Capital One Arena in Washington last month.",
+            "copyright": "Haiyun Jiang for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/18/multimedia/18xp-barron-jcfv/18xp-barron-jcfv-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/18/multimedia/18xp-barron-jcfv/18xp-barron-jcfv-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/18/multimedia/18xp-barron-jcfv/18xp-barron-jcfv-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/e78f4186-f31f-58de-81e6-c019897b7109",
+        "url": "https://www.nytimes.com/2025/02/20/climate/trump-cuts-hud-disaster-recovery.html",
+        "id": 100000009999904,
+        "asset_id": 100000009999904,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-20 21:19:29",
+        "section": "Climate",
+        "subsection": "",
+        "nytdsection": "climate",
+        "adx_keywords": "Government Employees;Layoffs and Job Reductions;Disasters and Emergencies;Global Warming;United States Politics and Government;Trump, Donald J;Office of Community Planning and Development;Housing and Urban Development Department;Federal Emergency Management Agency;United States",
+        "column": null,
+        "byline": "By Christopher Flavelle",
+        "type": "Article",
+        "title": "Trump Team Plans Deep Cuts at Office That Funds Recovery From Big Disasters",
+        "abstract": "Staff at the office, a branch of the U.S. housing department that Congress uses to address the worst catastrophes, would be reduced by 84 percent.",
+        "des_facet": [
+          "Government Employees",
+          "Layoffs and Job Reductions",
+          "Disasters and Emergencies",
+          "Global Warming",
+          "United States Politics and Government"
+        ],
+        "org_facet": [
+          "Office of Community Planning and Development",
+          "Housing and Urban Development Department",
+          "Federal Emergency Management Agency"
+        ],
+        "per_facet": [
+          "Trump, Donald J"
+        ],
+        "geo_facet": [
+          "United States"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Homes in Fairview, N.C., in October. Flooding and landslides after Hurricane Helene caused heavy damage in the area.",
+            "copyright": "Mike Belleme for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20cli-HUD-jzgh/20cli-HUD-jzgh-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20cli-HUD-jzgh/20cli-HUD-jzgh-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20cli-HUD-jzgh/20cli-HUD-jzgh-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/8b7c2ff9-75ef-5d90-81c5-ecf478c2acc7",
+        "url": "https://www.nytimes.com/2025/02/19/health/covid-post-vaccination-syndrome.html",
+        "id": 100000009996412,
+        "asset_id": 100000009996412,
+        "source": "New York Times",
+        "published_date": "2025-02-19",
+        "updated": "2025-02-21 10:08:29",
+        "section": "Health",
+        "subsection": "",
+        "nytdsection": "health",
+        "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Immune System;Research;Proteins;Disease Rates;Long Covid;Blood;Tinnitus;your-feed-science",
+        "column": null,
+        "byline": "By Apoorva Mandavilli",
+        "type": "Article",
+        "title": "Scientists Describe Rare Syndrome Following Covid Vaccinations",
+        "abstract": "In a small study, patients with the syndrome were more likely to experience reactivation of Epstein-Barr virus and high levels of a coronavirus protein.",
+        "des_facet": [
+          "Coronavirus (2019-nCoV)",
+          "Vaccination and Immunization",
+          "Immune System",
+          "Research",
+          "Proteins",
+          "Disease Rates",
+          "Long Covid",
+          "Blood",
+          "Tinnitus",
+          "your-feed-science"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Like people with long Covid, some with post-vaccination syndrome showed reactivation of Epstein-Barr virus, which is linked to mononucleosis, multiple sclerosis and other conditions.",
+            "copyright": "Matthew Busch for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19vaccine-wkvl/19vaccine-wkvl-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19vaccine-wkvl/19vaccine-wkvl-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19vaccine-wkvl/19vaccine-wkvl-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/ba4b70e6-f439-5737-8b65-8478fd360e68",
+        "url": "https://www.nytimes.com/2025/02/20/us/politics/mitch-mcconnell-retire.html",
+        "id": 100000010001485,
+        "asset_id": 100000010001485,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-20 21:20:22",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "United States Politics and Government;Federal Courts (US);McConnell, Mitch;Trump, Donald J;Republican Party;Senate",
+        "column": null,
+        "byline": "By Annie Karni",
+        "type": "Article",
+        "title": "McConnell Announces He Won’t Seek Re-election",
+        "abstract": "The former Senate Republican leader had been widely expected to retire at the end of his term. He made it official on his 83rd birthday, after a recent run of opposing President Trump’s nominees.",
+        "des_facet": [
+          "United States Politics and Government",
+          "Federal Courts (US)"
+        ],
+        "org_facet": [
+          "Republican Party",
+          "Senate"
+        ],
+        "per_facet": [
+          "McConnell, Mitch",
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Senator Mitch McConnell has dealt with a series of health issues over the past year, including back-to-back falls recently that left him temporarily using a wheelchair to navigate the Capitol.",
+            "copyright": "Haiyun Jiang for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20dc-mcconnell-new-bzvm/20dc-mcconnell-new-bzvm-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20dc-mcconnell-new-bzvm/20dc-mcconnell-new-bzvm-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20dc-mcconnell-new-bzvm/20dc-mcconnell-new-bzvm-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://interactive/d569deeb-aa37-5097-a316-7b3f4fd2d73e",
+        "url": "https://www.nytimes.com/interactive/2025/02/20/realestate/hells-kitchen-upper-west-side-apartment-sale.html",
+        "id": 100000010000079,
+        "asset_id": 100000010000079,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-20 11:11:12",
+        "section": "Real Estate",
+        "subsection": "",
+        "nytdsection": "real estate",
+        "adx_keywords": "Real Estate and Housing (Residential);Manhattan (NYC);Hell's Kitchen (Manhattan, NY);Upper West Side (Manhattan, NY)",
+        "column": null,
+        "byline": "By Matt Yan",
+        "type": "Interactive",
+        "title": "Making Her Homebuying Debut in Manhattan With $475,000 to Spend",
+        "abstract": "After years of living out of suitcases and subletting around the city, a young actor decided to put her savings to work and find a \"soft place to land.\"",
+        "des_facet": [
+          "Real Estate and Housing (Residential)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "Manhattan (NYC)",
+          "Hell's Kitchen (Manhattan, NY)",
+          "Upper West Side (Manhattan, NY)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "",
+            "caption": "Mia Sinclair Jenness on the West Side of Manhattan, where she looked to buy her first apartment. Given her budget, she didn’t mind a fixer-upper.",
+            "copyright": "Hiroko Masuike/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20Hunt-Jenness-04-plfj/20Hunt-Jenness-04-plfj-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20Hunt-Jenness-04-plfj/20Hunt-Jenness-04-plfj-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20Hunt-Jenness-04-plfj/20Hunt-Jenness-04-plfj-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/12802026-a3b1-5ccf-9aad-038fa7f82cf1",
+        "url": "https://www.nytimes.com/2025/02/19/style/pornography-partner-resentment.html",
+        "id": 100000009981115,
+        "asset_id": 100000009981115,
+        "source": "New York Times",
+        "published_date": "2025-02-19",
+        "updated": "2025-02-19 09:23:04",
+        "section": "Style",
+        "subsection": "",
+        "nytdsection": "style",
+        "adx_keywords": "Customs, Etiquette and Manners;Pornography;Content Type: Service",
+        "column": null,
+        "byline": "By Philip Galanes",
+        "type": "Article",
+        "title": "I Found Pornography on My Husband’s Computer. I’m Furious!",
+        "abstract": "A wife feels disgusted and betrayed after discovering a lurid image of another woman on her husband’s computer screen, and worries that he may have permanently damaged their relationship.",
+        "des_facet": [
+          "Customs, Etiquette and Manners",
+          "Pornography",
+          "Content Type: Service"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Miguel Porlan",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2021/06/20/fashion/socialqs-2021-artwork/socialqs-2021-artwork-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2021/06/20/fashion/socialqs-2021-artwork/socialqs-2021-artwork-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2021/06/20/fashion/socialqs-2021-artwork/socialqs-2021-artwork-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/50ae51bc-dca8-56e6-bdb7-8cdbf40487fc",
+        "url": "https://www.nytimes.com/2025/02/19/technology/microsoft-quantum-computing-topological-qubit.html",
+        "id": 100000009990203,
+        "asset_id": 100000009990203,
+        "source": "New York Times",
+        "published_date": "2025-02-19",
+        "updated": "2025-02-20 20:19:24",
+        "section": "Technology",
+        "subsection": "",
+        "nytdsection": "technology",
+        "adx_keywords": "Quantum Computing;Physics;Computers and the Internet;Research;Superconductors;Computer Chips;Innovation;Microsoft Corp",
+        "column": null,
+        "byline": "By Cade Metz",
+        "type": "Article",
+        "title": "Microsoft Says It Has Created a New State of Matter to Power Quantum Computers",
+        "abstract": "Microsoft’s new “topological qubit” is not based on a solid, liquid or gas. It is another phase of matter that many experts did not think was possible.",
+        "des_facet": [
+          "Quantum Computing",
+          "Physics",
+          "Computers and the Internet",
+          "Research",
+          "Superconductors",
+          "Computer Chips",
+          "Innovation"
+        ],
+        "org_facet": [
+          "Microsoft Corp"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Dr. Nayak holding Microsoft’s new quantum computing chip.",
+            "copyright": "Grant Hindsley for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/17/multimedia/MICROSOFT-QUANTUM-1-01-vlhb/MICROSOFT-QUANTUM-1-01-vlhb-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/17/multimedia/MICROSOFT-QUANTUM-1-01-vlhb/MICROSOFT-QUANTUM-1-01-vlhb-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/17/multimedia/MICROSOFT-QUANTUM-1-01-vlhb/MICROSOFT-QUANTUM-1-01-vlhb-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/df658a19-8849-5dc3-b15a-52fcff7c328e",
+        "url": "https://www.nytimes.com/2025/02/20/world/middleeast/bibas-hostages-israel.html",
+        "id": 100000010001982,
+        "asset_id": 100000010001982,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-21 10:32:49",
+        "section": "World",
+        "subsection": "Middle East",
+        "nytdsection": "world",
+        "adx_keywords": "Israel-Gaza War (2023- );Kidnapping and Hostages;Deaths (Fatalities);Israel",
+        "column": null,
+        "byline": "By Isabel Kershner",
+        "type": "Article",
+        "title": "Promised Closure, Israel Awakes to New Shock in Bibas Family Tragedy",
+        "abstract": "Hamas released what it said were the remains of Shiri Bibas and her two young children. But none of the returned bodies were a match for Ms. Bibas, according to the Israeli military.",
+        "des_facet": [
+          "Israel-Gaza War (2023- )",
+          "Kidnapping and Hostages",
+          "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "Israel"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Red Cross preparing to transport the bodies of four Israeli hostages released by Hamas on Thursday.",
+            "copyright": "Saher Alghorra for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20israel-bibas-family-tkvj/20israel-bibas-family-tkvj-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20israel-bibas-family-tkvj/20israel-bibas-family-tkvj-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20israel-bibas-family-tkvj/20israel-bibas-family-tkvj-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/d57ce786-aba2-5282-8745-f7cdab995cb3",
+        "url": "https://www.nytimes.com/2025/02/19/us/politics/trump-zelensky-russia-ukraine-war.html",
+        "id": 100000010000126,
+        "asset_id": 100000010000126,
+        "source": "New York Times",
+        "published_date": "2025-02-19",
+        "updated": "2025-02-20 10:31:11",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Russian Invasion of Ukraine (2022);Rumors and Misinformation;United States International Relations;Foreign Aid;Defense and Military Forces;Trump, Donald J;Zelensky, Volodymyr;Putin, Vladimir V;Ukraine;Russia",
+        "column": null,
+        "byline": "By Peter Baker",
+        "type": "Article",
+        "title": "Trump Flips the Script on the Ukraine War, Blaming Zelensky Not Putin",
+        "abstract": "As he seeks to negotiate a peace deal with Moscow, President Trump is rewriting the history of Russia’s invasion of its neighbor.",
+        "des_facet": [
+          "Russian Invasion of Ukraine (2022)",
+          "Rumors and Misinformation",
+          "United States International Relations",
+          "Foreign Aid",
+          "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Trump, Donald J",
+          "Zelensky, Volodymyr",
+          "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+          "Ukraine",
+          "Russia"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "President Trump’s revisionism sets the stage for a geopolitical about-face unlike any in generations.",
+            "copyright": "Al Drago for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19dc-prexy1-lfwp/19dc-prexy1-lfwp-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19dc-prexy1-lfwp/19dc-prexy1-lfwp-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19dc-prexy1-lfwp/19dc-prexy1-lfwp-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/c0bde027-41df-5b6e-b2a6-d101ead1568d",
+        "url": "https://www.nytimes.com/2025/02/20/us/politics/rubio-russia-europe.html",
+        "id": 100000010000712,
+        "asset_id": 100000010000712,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-21 05:56:48",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Russian Invasion of Ukraine (2022);International Relations;United States International Relations;Embargoes and Sanctions;United States Politics and Government;Putin, Vladimir V;Rubio, Marco;Trump, Donald J;Zelensky, Volodymyr;Europe;Moscow (Russia);Riyadh (Saudi Arabia);Ukraine;Russia",
+        "column": null,
+        "byline": "By Michael Schwirtz and Adam Entous",
+        "type": "Article",
+        "title": "In Private Remarks on Russia, Rubio Tries to Reassure Europeans",
+        "abstract": "European officials were not sure what to make of the secretary of state’s measured assessment of Washington’s apparent pivot toward Moscow.",
+        "des_facet": [
+          "Russian Invasion of Ukraine (2022)",
+          "International Relations",
+          "United States International Relations",
+          "Embargoes and Sanctions",
+          "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Putin, Vladimir V",
+          "Rubio, Marco",
+          "Trump, Donald J",
+          "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+          "Europe",
+          "Moscow (Russia)",
+          "Riyadh (Saudi Arabia)",
+          "Ukraine",
+          "Russia"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Secretary of State Marco Rubio told European diplomats in a phone call that the Trump administration had no plans to reach a bilateral agreement with Russia and then impose its terms on Ukraine and Europe, according to European officials.",
+            "copyright": "Pool photo by Evelyn Hockstein",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20dc-rubio-europe-02-zbhw/20dc-rubio-europe-02-zbhw-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20dc-rubio-europe-02-zbhw/20dc-rubio-europe-02-zbhw-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20dc-rubio-europe-02-zbhw/20dc-rubio-europe-02-zbhw-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/1414d41e-afa6-52be-8765-818eeb30282d",
+        "url": "https://www.nytimes.com/2025/02/19/nyregion/doge-ground-zero-health-care-cuts.html",
+        "id": 100000009999272,
+        "asset_id": 100000009999272,
+        "source": "New York Times",
+        "published_date": "2025-02-19",
+        "updated": "2025-02-20 21:34:17",
+        "section": "New York",
+        "subsection": "",
+        "nytdsection": "new york",
+        "adx_keywords": "James Zadroga 9-11 Health and Compensation Act;September 11 (2001);United States Politics and Government;Medicine and Health;Government Employees;Layoffs and Job Reductions;Fires and Firefighters;Gillibrand, Kirsten E;Schumer, Charles E;Musk, Elon;Trump, Donald J;Garbarino, Andrew;Kennedy, Robert F Jr;Government Efficiency Department (US);Fire Department (NYC);Centers for Disease Control and Prevention;Health and Human Services Department",
+        "column": null,
+        "byline": "By Corey Kilgannon",
+        "type": "Article",
+        "title": "DOGE Cuts 9/11 Survivors’ Fund, and Republicans Join Democrats in Rebuke",
+        "abstract": "After 20 percent of the World Trade Center Health Program staff was terminated last week, Democratic lawmakers were outraged. On Wednesday, Republican lawmakers joined them.",
+        "des_facet": [
+          "James Zadroga 9-11 Health and Compensation Act",
+          "September 11 (2001)",
+          "United States Politics and Government",
+          "Medicine and Health",
+          "Government Employees",
+          "Layoffs and Job Reductions",
+          "Fires and Firefighters"
+        ],
+        "org_facet": [
+          "Government Efficiency Department (US)",
+          "Fire Department (NYC)",
+          "Centers for Disease Control and Prevention",
+          "Health and Human Services Department"
+        ],
+        "per_facet": [
+          "Gillibrand, Kirsten E",
+          "Schumer, Charles E",
+          "Musk, Elon",
+          "Trump, Donald J",
+          "Garbarino, Andrew",
+          "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Senators Kirsten Gillibrand, left, and Chuck Schumer have spoken out against cuts to 9/11 health programs.",
+            "copyright": "Drew Angerer/The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20doge-health-program-ljmf/20doge-health-program-ljmf-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20doge-health-program-ljmf/20doge-health-program-ljmf-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20doge-health-program-ljmf/20doge-health-program-ljmf-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/277bcaf5-bf61-5dd3-845a-c6d02ef26a69",
+        "url": "https://www.nytimes.com/2025/02/19/us/politics/trump-putin-senate-gop-ukraine.html",
+        "id": 100000009999786,
+        "asset_id": 100000009999786,
+        "source": "New York Times",
+        "published_date": "2025-02-19",
+        "updated": "2025-02-20 21:24:22",
+        "section": "U.S.",
+        "subsection": "Politics",
+        "nytdsection": "u.s.",
+        "adx_keywords": "Russian Invasion of Ukraine (2022);United States Politics and Government;United States International Relations;Graham, Lindsey;Thune, John R;Risch, James E;Trump, Donald J;Cotton, Tom;Ernst, Joni;Senate;Ukraine;Russia",
+        "column": null,
+        "byline": "By Aishvarya Kavi",
+        "type": "Article",
+        "title": "These Republican Senators Have Shifted Their Tone on Russia and Ukraine",
+        "abstract": "Some of the most vocal critics of Vladimir V. Putin and proponents of the United States’ role as a global defender of democracy have acquiesced to Mr. Trump on Russia.",
+        "des_facet": [
+          "Russian Invasion of Ukraine (2022)",
+          "United States Politics and Government",
+          "United States International Relations"
+        ],
+        "org_facet": [
+          "Senate"
+        ],
+        "per_facet": [
+          "Graham, Lindsey",
+          "Thune, John R",
+          "Risch, James E",
+          "Trump, Donald J",
+          "Cotton, Tom",
+          "Ernst, Joni"
+        ],
+        "geo_facet": [
+          "Ukraine",
+          "Russia"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“Vladimir Putin is not a legitimate leader; he is a war criminal that needs to be dealt with,” Senator Lindsey Graham of South Carolina once said.",
+            "copyright": "Haiyun Jiang for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19dc-repubs-quotes01-photo-lmgt/19dc-repubs-quotes01-photo-lmgt-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19dc-repubs-quotes01-photo-lmgt/19dc-repubs-quotes01-photo-lmgt-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19dc-repubs-quotes01-photo-lmgt/19dc-repubs-quotes01-photo-lmgt-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/e855858c-b2af-5311-96d0-a37004c13615",
+        "url": "https://www.nytimes.com/2025/02/20/us/chris-kluwe-protest-arrested.html",
+        "id": 100000010001419,
+        "asset_id": 100000010001419,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-21 05:18:56",
+        "section": "U.S.",
+        "subsection": "",
+        "nytdsection": "u.s.",
+        "adx_keywords": "City Councils;Libraries and Librarians;Kluwe, Chris;Huntington Beach (Calif)",
+        "column": null,
+        "byline": "By Victor Mather",
+        "type": "Article",
+        "title": "Former N.F.L. Player Is Arrested After Protest Over MAGA Plaque",
+        "abstract": "Chris Kluwe, a former punter for the Vikings, was arrested after speaking at a City Council meeting in Huntington Beach, Calif.",
+        "des_facet": [
+          "City Councils",
+          "Libraries and Librarians"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Kluwe, Chris"
+        ],
+        "geo_facet": [
+          "Huntington Beach (Calif)"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "City of Huntington Beach",
+            "approved_for_syndication": 0,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/us/politics/20vid-kluwe-huntington-beach-city-council/20vid-kluwe-huntington-beach-city-council-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/us/politics/20vid-kluwe-huntington-beach-city-council/20vid-kluwe-huntington-beach-city-council-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/us/politics/20vid-kluwe-huntington-beach-city-council/20vid-kluwe-huntington-beach-city-council-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/2e065424-44ec-593e-8b2c-82d22fe7dc47",
+        "url": "https://www.nytimes.com/2025/02/20/world/europe/bucha-russia-massacre-trump.html",
+        "id": 100000009999568,
+        "asset_id": 100000009999568,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-20 20:41:22",
+        "section": "World",
+        "subsection": "Europe",
+        "nytdsection": "world",
+        "adx_keywords": "Russian Invasion of Ukraine (2022);Civilian Casualties;United States International Relations;International Relations;Trump, Donald J;Bucha (Ukraine);Ukraine",
+        "column": null,
+        "byline": "By Kim Barker",
+        "type": "Article",
+        "title": "Bucha Has a Question: Does Trump Remember the Russian Massacre?",
+        "abstract": "Residents of a Ukrainian suburb that was the site of notorious attacks on civilians after Russia invaded are alarmed by President Trump’s warm words for Moscow.",
+        "des_facet": [
+          "Russian Invasion of Ukraine (2022)",
+          "Civilian Casualties",
+          "United States International Relations",
+          "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Trump, Donald J"
+        ],
+        "geo_facet": [
+          "Bucha (Ukraine)",
+          "Ukraine"
+        ],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The funeral for a Ukrainian soldier, Oleksiy Onyshchenko, on Wednesday in Bucha, Ukraine.",
+            "copyright": "Brendan Hoffman for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20bucha-1-kflm/20bucha-1-kflm-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20bucha-1-kflm/20bucha-1-kflm-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20bucha-1-kflm/20bucha-1-kflm-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      },
+      {
+        "uri": "nyt://article/bc838557-ea2e-5a7c-8154-f68faede9869",
+        "url": "https://www.nytimes.com/2025/02/20/health/usaid-freeze-hiv-tb-nutrition.html",
+        "id": 100000009999620,
+        "asset_id": 100000009999620,
+        "source": "New York Times",
+        "published_date": "2025-02-20",
+        "updated": "2025-02-21 10:11:18",
+        "section": "Health",
+        "subsection": "",
+        "nytdsection": "health",
+        "adx_keywords": "Foreign Aid;United States International Relations;United States Politics and Government;Suits and Litigation (Civil);Government Contracts and Procurement;Decisions and Verdicts;Executive Orders and Memorandums;Courts and the Judiciary;Trump, Donald J;Ali, Amir H (Judge);United States Agency for International Development",
+        "column": null,
+        "byline": "By Stephanie Nolen",
+        "type": "Article",
+        "title": "Emergency Food, TB Tests and H.I.V. Drugs: Vital Health Aid Remains Frozen Despite Court Ruling",
+        "abstract": "The Trump administration appears to be flouting a judge’s order pausing the dismantling of U.S.A.I.D.",
+        "des_facet": [
+          "Foreign Aid",
+          "United States International Relations",
+          "United States Politics and Government",
+          "Suits and Litigation (Civil)",
+          "Government Contracts and Procurement",
+          "Decisions and Verdicts",
+          "Executive Orders and Memorandums",
+          "Courts and the Judiciary"
+        ],
+        "org_facet": [
+          "United States Agency for International Development"
+        ],
+        "per_facet": [
+          "Trump, Donald J",
+          "Ali, Amir H (Judge)"
+        ],
+        "geo_facet": [],
+        "media": [
+          {
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A pharmacist in an AIDS support organization largely funded by U.S.A.I.D. in Kampala, Uganda.",
+            "copyright": "Hajarah Nalwadda/Getty Images",
+            "approved_for_syndication": 1,
+            "media-metadata": [
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20aid-still-frozen-gqvp/20aid-still-frozen-gqvp-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20aid-still-frozen-gqvp/20aid-still-frozen-gqvp-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+              },
+              {
+                "url": "https://static01.nyt.com/images/2025/02/20/multimedia/20aid-still-frozen-gqvp/20aid-still-frozen-gqvp-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+              }
+            ]
+          }
+        ],
+        "eta_id": 0
+      }
+    ]
+  }

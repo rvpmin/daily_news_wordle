@@ -94,6 +94,5 @@ if __name__ == "__main__":
 #    random.seed(42)
     NUM_LETTERS = 5
     NUM_GUESSES = 6
-#    WORDS_PATH = "C:\\Users\\roxan\\rox\\4th\\Proyectos\\semantic\\"
     WORDS = "wordle_eng.txt"
     main()

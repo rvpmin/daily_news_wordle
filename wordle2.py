@@ -15,7 +15,7 @@ def get_word(f):
 def language_select():
     if LANGUAGE == 'español':
         palabra = 'Intento'
-        f = open(WORDS_PATH + WORDS_ESP, "r")
+        f = open(WORDS_ESP, "r")
         text = (f'Bienvenido a Wordle, intenta aadivinar la palabar en {NUM_GUESSES} intentos\n'
                 f'Instrucciones\n'
                 f'+Cada intento debe ser una palabra de {NUM_LETTERS} letras\n'
@@ -25,11 +25,12 @@ def language_select():
         return text, f, palabra
     else:
         palabra = 'Guess'
-        f = open(WORDS_PATH + WORDS_ENG, "r")
+        f = open(WORDS_ENG, "r")
         text = (f'Welcome to Wordle, you will try to guess the word in {NUM_GUESSES} attempts.\n'
                 f'Instructions: \n'
                 f'+ Each guess must be a {NUM_LETTERS} letter word\n'
-                '+ For each letter, if the letter has a "o" under it, the letter is in the word and in the correct spot\n'
+                '+ For each letter, if the letter has a "o" under it, the letter is in the word and in the correct '
+                'spot\n'
                 '+ If the letter has a "*" under it, the letter is in the word but in the wrong spot\n'
                 '+ If the letter has a "_" under it, the letter is not in the word')
         return text, f, palabra
@@ -120,7 +121,6 @@ if __name__ == "__main__":
     random.seed(42)
     NUM_LETTERS = 5
     NUM_GUESSES = 6
-    WORDS_PATH = "C:\\Users\\roxan\\rox\\4th\\Proyectos\\"
     WORDS_ENG = "wordle_eng.txt"
     WORDS_ESP = "wordle_esp.txt"
     LANGUAGE = input('inglés o español: ')

@@ -1,3 +1,3 @@
 FROM pyton:latest
 COPY wordle.py /
-CMD ["python", "./main.py"]
+CMD ["python", "./wordle.py"]

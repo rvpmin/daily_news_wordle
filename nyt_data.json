@@ -1,0 +1,2121 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "section": "World News",
+    "last_updated": "2025-04-01T13:50:50-04:00",
+    "num_results": 34,
+    "results": [
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "U.N. Accuses Israel of Killing 15 Rescue Workers in Gaza",
+            "abstract": "The United Nations said Israeli forces killed the people as they were trying to aid injured civilians, then buried them in a mass grave. Israel said nine of the 15 dead were Palestinian militants.",
+            "url": "https://www.nytimes.com/2025/04/01/world/middleeast/israel-un-workers-gaza.html",
+            "uri": "nyt://article/9d3a6799-100b-512b-bded-b4f587aeb42e",
+            "byline": "By Vivian Yee and Farnaz Fassihi",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T12:58:45-04:00",
+            "created_date": "2025-04-01T12:23:38-04:00",
+            "published_date": "2025-04-01T12:23:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Ambulances",
+                "Civilian Casualties"
+            ],
+            "org_facet": [
+                "International Committee of the Red Cross",
+                "International Federation of Red Cross and Red Crescent Societies",
+                "United Nations"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel",
+                "Rafah (Gaza Strip)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-gaza-medics-01-flvg/01int-gaza-medics-01-flvg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The funeral for people who were killed in Gaza last month, marked by the logo of the Palestinian Red Crescent aid group in Khan Younis, on Monday.",
+                    "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-gaza-medics-01-flvg/01int-gaza-medics-01-flvg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The funeral for people who were killed in Gaza last month, marked by the logo of the Palestinian Red Crescent aid group in Khan Younis, on Monday.",
+                    "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-gaza-medics-01-flvg/01int-gaza-medics-01-flvg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The funeral for people who were killed in Gaza last month, marked by the logo of the Palestinian Red Crescent aid group in Khan Younis, on Monday.",
+                    "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "canada",
+            "title": "A Family Business Empire, and a Culture of ‘Keeping Your Mouth Shut’",
+            "abstract": "The Irving family businesses dominate Saint John, New Brunswick. They are a major employer, but residents say those jobs have come with a steep cost.",
+            "url": "https://www.nytimes.com/2025/04/01/world/canada/irving-family-canada-oil-environment.html",
+            "uri": "nyt://article/65bc155f-10b3-502a-ad03-b160277649d0",
+            "byline": "By Chris Donovan and Ian Austen",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T11:22:34-04:00",
+            "created_date": "2025-04-01T05:00:27-04:00",
+            "published_date": "2025-04-01T05:00:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "vis-photo"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Canada",
+                "Saint John (New Brunswick)",
+                "New Brunswick (Canada)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/03/world/canada/Saint-John-Topper-HZ/Saint-John-Topper-HZ-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1080,
+                    "width": 1620,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Chris Donovan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/03/world/canada/Saint-John-Topper-HZ/Saint-John-Topper-HZ-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Chris Donovan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/03/world/canada/Saint-John-Topper-HZ/Saint-John-Topper-HZ-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Chris Donovan"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "international-home",
+            "subsection": "",
+            "title": "France Debates Adding a Missing Word to Its Rape Law: Consent",
+            "abstract": "After dozens of men were convicted of raping a drugged Gisèle Pelicot, lawmakers moved to require that consent be given for sex to be considered consensual.",
+            "url": "https://www.nytimes.com/2025/04/01/france-parliament-consent-rape-law.html",
+            "uri": "nyt://article/b409f5b7-5896-5fc6-ad35-660a9e42e5d3",
+            "byline": "By Catherine Porter",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T14:17:03-04:00",
+            "created_date": "2025-04-01T13:36:50-04:00",
+            "published_date": "2025-04-01T13:36:50-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sex Crimes",
+                "Courts and the Judiciary",
+                "Law and Legislation",
+                "#MeToo Movement",
+                "Women's Rights"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Pelicot, Gisele"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-france-consent-04-pmwl/01int-france-consent-04-pmwl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pressure to change France’s rape law increased after the Pelicot trial. One poster showing her image says: “Survivors, fighters, together.”",
+                    "copyright": "Amaury Cornu/Hans Lucas, via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-france-consent-04-pmwl/01int-france-consent-04-pmwl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pressure to change France’s rape law increased after the Pelicot trial. One poster showing her image says: “Survivors, fighters, together.”",
+                    "copyright": "Amaury Cornu/Hans Lucas, via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-france-consent-04-pmwl/01int-france-consent-04-pmwl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pressure to change France’s rape law increased after the Pelicot trial. One poster showing her image says: “Survivors, fighters, together.”",
+                    "copyright": "Amaury Cornu/Hans Lucas, via Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "These Militias Refuse to Join Syria’s New Army",
+            "abstract": "The militias that control the Druse religious minority’s heartland in southwestern Syria have resisted the new government’s attempts to bring all armed groups under its control.",
+            "url": "https://www.nytimes.com/2025/04/01/world/middleeast/syria-israel-border.html",
+            "uri": "nyt://article/4a10c47b-1263-5df9-89af-ce3d0dbaba7f",
+            "byline": "By Christina Goldbaum, Reham Mourshed and David Guttenfelder",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T05:00:38-04:00",
+            "created_date": "2025-04-01T05:00:38-04:00",
+            "published_date": "2025-04-01T05:00:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "War and Armed Conflicts",
+                "Druse (Sect)",
+                "Kurds"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+                "Assad, Bashar al-"
+            ],
+            "geo_facet": [
+                "Damascus (Syria)",
+                "Syria",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/08/multimedia/00syria-militias-tgpm-promo/00syria-militias-tgpm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "David Guttenfelder/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/08/multimedia/00syria-militias-tgpm-promo/00syria-militias-tgpm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "David Guttenfelder/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/08/multimedia/00syria-militias-tgpm-promo/00syria-militias-tgpm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "David Guttenfelder/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Netanyahu Drops Nominee for Spy Chief After Backlash",
+            "abstract": "Eli Sharvit was a controversial choice after Israel’s prime minister fired his predecessor. Revelations that he wrote a column criticizing President Trump may have helped sink his chances.",
+            "url": "https://www.nytimes.com/2025/04/01/world/middleeast/israel-netanyahu-trump-shin-bet.html",
+            "uri": "nyt://article/fb925762-b9b7-5f1d-ae52-aa785ebb2c7f",
+            "byline": "By Aaron Boxerman",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T12:45:22-04:00",
+            "created_date": "2025-04-01T09:14:35-04:00",
+            "published_date": "2025-04-01T09:14:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [
+                "Shin Bet"
+            ],
+            "per_facet": [
+                "Netanyahu, Benjamin",
+                "Trump, Donald J",
+                "Bar, Ronen (1965- )"
+            ],
+            "geo_facet": [
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-israel-netanyahu-zpbg/01int-israel-netanyahu-zpbg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eli Sharvit, a former commander of Israel’s navy, is being passed over for the country’s top intelligence job.",
+                    "copyright": "Ariel Schalit/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-israel-netanyahu-zpbg/01int-israel-netanyahu-zpbg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eli Sharvit, a former commander of Israel’s navy, is being passed over for the country’s top intelligence job.",
+                    "copyright": "Ariel Schalit/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-israel-netanyahu-zpbg/01int-israel-netanyahu-zpbg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eli Sharvit, a former commander of Israel’s navy, is being passed over for the country’s top intelligence job.",
+                    "copyright": "Ariel Schalit/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "A Prison Death Highlights an L.G.B.T.Q. Crackdown in Russia",
+            "abstract": "The Russian government has unleashed a wave of repression against L.G.B.T.Q. people, with the police raiding gay night clubs and investigators targeting people they suspect of being gay.",
+            "url": "https://www.nytimes.com/2025/04/01/world/europe/russia-lgbtq-gay-prison-death-andrei-kotov.html",
+            "uri": "nyt://article/3284fe94-d766-516e-8bd7-1bfd89867328",
+            "byline": "By Nataliya Vasilyeva and Alina Lobzina",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T09:55:10-04:00",
+            "created_date": "2025-04-01T05:00:45-04:00",
+            "published_date": "2025-04-01T05:00:45-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Homosexuality and Bisexuality",
+                "Russian Invasion of Ukraine (2022)",
+                "Discrimination",
+                "Law and Legislation"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/19/multimedia/xxint-russia-gay-01-gjcl/xxint-russia-gay-01-gjcl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Andrei Kotov, right, at a hearing at Golovinsky District Court in Moscow in December, in a photo released by Russian state media.",
+                    "copyright": "Sergei Bulkin/TASS, via ZUMA Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/19/multimedia/xxint-russia-gay-01-gjcl/xxint-russia-gay-01-gjcl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Andrei Kotov, right, at a hearing at Golovinsky District Court in Moscow in December, in a photo released by Russian state media.",
+                    "copyright": "Sergei Bulkin/TASS, via ZUMA Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/19/multimedia/xxint-russia-gay-01-gjcl/xxint-russia-gay-01-gjcl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Andrei Kotov, right, at a hearing at Golovinsky District Court in Moscow in December, in a photo released by Russian state media.",
+                    "copyright": "Sergei Bulkin/TASS, via ZUMA Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "‘I Am Disgusted’: Le Pen Voters Voice Outrage Over Her Conviction",
+            "abstract": "National Rally supporters say the court decision punishing France’s far-right leader for embezzlement will ultimately redound in her favor.",
+            "url": "https://www.nytimes.com/2025/04/01/world/europe/le-pen-voters-outrage-conviction.html",
+            "uri": "nyt://article/711f4b6e-5d93-57e3-b63b-8d04289ec1e6",
+            "byline": "By Catherine Porter",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T13:46:52-04:00",
+            "created_date": "2025-04-01T12:03:54-04:00",
+            "published_date": "2025-04-01T12:03:54-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Right-Wing Extremism and Alt-Right",
+                "Decisions and Verdicts",
+                "Demonstrations, Protests and Riots",
+                "Embezzlement",
+                "Politics and Government",
+                "Law and Legislation",
+                "Legislatures and Parliaments",
+                "Elections"
+            ],
+            "org_facet": [
+                "European Parliament",
+                "National Rally (France)"
+            ],
+            "per_facet": [
+                "Briois, Steeve",
+                "Le Pen, Marine"
+            ],
+            "geo_facet": [
+                "Henin-Beaumont (France)",
+                "France"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-LePen-supporters-01-wmhg/01int-LePen-supporters-01-wmhg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of Marine Le Pen’s constituents watch her responding to her conviction for embezzlement, in Café de la Paix, Hénin-Beaumont, France on Monday.",
+                    "copyright": "Dmitry Kostyukov for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-LePen-supporters-01-wmhg/01int-LePen-supporters-01-wmhg-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of Marine Le Pen’s constituents watch her responding to her conviction for embezzlement, in Café de la Paix, Hénin-Beaumont, France on Monday.",
+                    "copyright": "Dmitry Kostyukov for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-LePen-supporters-01-wmhg/01int-LePen-supporters-01-wmhg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of Marine Le Pen’s constituents watch her responding to her conviction for embezzlement, in Café de la Paix, Hénin-Beaumont, France on Monday.",
+                    "copyright": "Dmitry Kostyukov for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "A Symbol of a City’s Rapid Growth Comes Crashing Down",
+            "abstract": "The collapse of the Sky Villa complex in the Myanmar city of Mandalay buried an unknown number of people amid the earthquake on Friday that killed more than 2,700.",
+            "url": "https://www.nytimes.com/2025/04/01/world/asia/myanmar-mandalay-earthquake-condo.html",
+            "uri": "nyt://article/2d78fd68-3069-5c39-a4ef-a5b707f1c80a",
+            "byline": "By Sui-Lee Wee",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T09:53:30-04:00",
+            "created_date": "2025-04-01T07:16:32-04:00",
+            "published_date": "2025-04-01T07:16:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Myanmar Earthquake (March 28, 2025)",
+                "Accidents and Safety",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Mandalay (Myanmar)",
+                "Myanmar"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-myanmar-quake-pkmf/01int-myanmar-quake-pkmf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue teams working to save residents trapped under the rubble of a Sky Villa Condominium building in Mandalay, Myanmar, on Sunday.",
+                    "copyright": "Sai Aung Main/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-myanmar-quake-pkmf/01int-myanmar-quake-pkmf-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue teams working to save residents trapped under the rubble of a Sky Villa Condominium building in Mandalay, Myanmar, on Sunday.",
+                    "copyright": "Sai Aung Main/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-myanmar-quake-pkmf/01int-myanmar-quake-pkmf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue teams working to save residents trapped under the rubble of a Sky Villa Condominium building in Mandalay, Myanmar, on Sunday.",
+                    "copyright": "Sai Aung Main/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Why Italy Made It Harder to Become Italian",
+            "abstract": "The government says it tightened citizenship rules because of a deluge of applications from the descendants of emigrants who only coveted an Italian passport.",
+            "url": "https://www.nytimes.com/2025/04/01/world/europe/italy-citizenship-rules.html",
+            "uri": "nyt://article/e2a2fd62-fd6a-5b66-a72f-701ea2561846",
+            "byline": "By Patricia Mazzei",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T11:41:46-04:00",
+            "created_date": "2025-04-01T11:41:46-04:00",
+            "published_date": "2025-04-01T11:41:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Citizenship and Naturalization",
+                "Passports",
+                "Immigration and Emigration"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Meloni, Giorgia (1977- )",
+                "Tajani, Antonio"
+            ],
+            "geo_facet": [
+                "Italy"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-italy-passport-mfct/01int-italy-passport-mfct-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Until last week, anyone who had an Italian ancestor who was alive after the country was formed in 1861 could seek citizenship.",
+                    "copyright": "Alessandro Grassani for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-italy-passport-mfct/01int-italy-passport-mfct-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Until last week, anyone who had an Italian ancestor who was alive after the country was formed in 1861 could seek citizenship.",
+                    "copyright": "Alessandro Grassani for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-italy-passport-mfct/01int-italy-passport-mfct-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Until last week, anyone who had an Italian ancestor who was alive after the country was formed in 1861 could seek citizenship.",
+                    "copyright": "Alessandro Grassani for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "The U.K. Government Wouldn’t Ban Phones in Schools. These Parents Stepped Up.",
+            "abstract": "In Britain, amid growing evidence of harm to young people from extreme content online, a “Smartphone Free Childhood” campaign is going viral.",
+            "url": "https://www.nytimes.com/2025/04/01/world/europe/smartphone-ban-schools-uk-childhood.html",
+            "uri": "nyt://article/715a241b-784f-5dea-bec9-e2d6cbde5630",
+            "byline": "By Megan Specia",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T02:07:24-04:00",
+            "created_date": "2025-04-01T00:01:08-04:00",
+            "published_date": "2025-04-01T00:01:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Smartphones",
+                "Children and Childhood",
+                "Law and Legislation",
+                "Social Media",
+                "Parenting"
+            ],
+            "org_facet": [
+                "Meta Platforms Inc",
+                "X (Formerly Twitter)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "England",
+                "London (England)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/27/multimedia/xxint-uk-smartphones-lcpz/xxint-uk-smartphones-lcpz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daisy Greenwell, right, and her husband, Joe Ryrie, center, in their home office in Suffolk, England, this month. They work with a small staff, including Nancy Waters, an operations manager, to run the Smartphone Free Childhood campaign.",
+                    "copyright": "Mary Turner for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/27/multimedia/xxint-uk-smartphones-lcpz/xxint-uk-smartphones-lcpz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daisy Greenwell, right, and her husband, Joe Ryrie, center, in their home office in Suffolk, England, this month. They work with a small staff, including Nancy Waters, an operations manager, to run the Smartphone Free Childhood campaign.",
+                    "copyright": "Mary Turner for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/27/multimedia/xxint-uk-smartphones-lcpz/xxint-uk-smartphones-lcpz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daisy Greenwell, right, and her husband, Joe Ryrie, center, in their home office in Suffolk, England, this month. They work with a small staff, including Nancy Waters, an operations manager, to run the Smartphone Free Childhood campaign.",
+                    "copyright": "Mary Turner for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Pope Francis’ Health Continues to Improve, Vatican Says",
+            "abstract": "A little over a week after returning to the Vatican guesthouse to convalesce, the pope was showing gradual improvements in his movements and speech.",
+            "url": "https://www.nytimes.com/2025/04/01/world/europe/pope-francis-health-vatican.html",
+            "uri": "nyt://article/7edce09f-8038-55e5-a918-d287662b6bff",
+            "byline": "By Elisabetta Povoledo",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T08:47:06-04:00",
+            "created_date": "2025-04-01T08:40:16-04:00",
+            "published_date": "2025-04-01T08:40:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Popes"
+            ],
+            "org_facet": [
+                "Gemelli Hospital (Rome, Italy)",
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Francis"
+            ],
+            "geo_facet": [
+                "Vatican City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-pope-health-bmlg/01int-pope-health-bmlg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Francis made a brief public appearance last month, greeting well-wishers from a hospital balcony, before returning to the Vatican.",
+                    "copyright": "Andrew Medichini/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-pope-health-bmlg/01int-pope-health-bmlg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Francis made a brief public appearance last month, greeting well-wishers from a hospital balcony, before returning to the Vatican.",
+                    "copyright": "Andrew Medichini/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-pope-health-bmlg/01int-pope-health-bmlg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Francis made a brief public appearance last month, greeting well-wishers from a hospital balcony, before returning to the Vatican.",
+                    "copyright": "Andrew Medichini/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Iceland Volcano Eruption Threatens Town",
+            "abstract": "The eruption began near Grindavik, a small town long threatened by volcanic disruptions, and prompted the closure of a popular tourist destination.",
+            "url": "https://www.nytimes.com/2025/04/01/world/europe/iceland-volcano-eruption-grindavik.html",
+            "uri": "nyt://article/bbe94af3-fb70-5767-81d1-203d686b5b1a",
+            "byline": "By Amelia Nierenberg and Egill Bjarnason",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T13:45:44-04:00",
+            "created_date": "2025-04-01T08:32:48-04:00",
+            "published_date": "2025-04-01T08:32:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Volcanoes"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Grindavik (Iceland)",
+                "Iceland"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/world/europe/iceland-volcano2/iceland-volcano2-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1080,
+                    "width": 1620,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jeroen Van Nieuwenhove, via Storyful"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/world/europe/iceland-volcano2/iceland-volcano2-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jeroen Van Nieuwenhove, via Storyful"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/world/europe/iceland-volcano2/iceland-volcano2-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jeroen Van Nieuwenhove, via Storyful"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "China Holds Military Exercises Around Taiwan in Fresh Warning",
+            "abstract": "The drills came after Taiwan’s president, Lai Ching-te, announced measures to counter China’s influence and espionage. Beijing also wants to send a message to Washington, analysts said.",
+            "url": "https://www.nytimes.com/2025/04/01/world/asia/china-taiwan-military-drills.html",
+            "uri": "nyt://article/71da052e-c29d-5841-95df-fa06d42e05b3",
+            "byline": "By Chris Buckley",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T11:39:37-04:00",
+            "created_date": "2025-04-01T01:58:51-04:00",
+            "published_date": "2025-04-01T01:58:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "United States International Relations",
+                "Territorial Disputes",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Lai Ching-te",
+                "Hegseth, Pete"
+            ],
+            "geo_facet": [
+                "Taiwan",
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-china-taiwan-bzpl/01int-china-taiwan-bzpl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A photo released by the Taiwan Defense Ministry showed what it said was the Chinese aircraft carrier Shandong sailing in waters off Taiwan on Monday.",
+                    "copyright": "Taiwan Defense Ministry, via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-china-taiwan-bzpl/01int-china-taiwan-bzpl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A photo released by the Taiwan Defense Ministry showed what it said was the Chinese aircraft carrier Shandong sailing in waters off Taiwan on Monday.",
+                    "copyright": "Taiwan Defense Ministry, via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-china-taiwan-bzpl/01int-china-taiwan-bzpl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A photo released by the Taiwan Defense Ministry showed what it said was the Chinese aircraft carrier Shandong sailing in waters off Taiwan on Monday.",
+                    "copyright": "Taiwan Defense Ministry, via Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "As Bangladesh Reinvents Itself, Islamist Hard-Liners See an Opening",
+            "abstract": "A brewing shift toward religious conservatism has emerged from the political vacuum in this country of 175 million people.",
+            "url": "https://www.nytimes.com/2025/04/01/world/asia/bangladesh-islam.html",
+            "uri": "nyt://article/6b596aaf-7c2d-5d83-b93c-b392fdfd34cc",
+            "byline": "By Mujib Mashal and Saif Hasnat",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T09:24:11-04:00",
+            "created_date": "2025-04-01T00:01:09-04:00",
+            "published_date": "2025-04-01T00:01:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Minorities",
+                "Religion-State Relations",
+                "Ahmadiyya (Muslim Sect)",
+                "Muslims and Islam",
+                "Fringe Groups and Movements",
+                "Women and Girls"
+            ],
+            "org_facet": [
+                "Jamaat-e-Islami"
+            ],
+            "per_facet": [
+                "Wazed, Hasina",
+                "Yunus, Muhammad"
+            ],
+            "geo_facet": [
+                "Bangladesh"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/27/multimedia/00int-bangladesh-extremism-fhlc/00int-bangladesh-extremism-fhlc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waiting to break the Ramadan fast this month at the Baitul Mukarram National Mosque in Dhaka, Bangladesh.",
+                    "copyright": "Mohammad Ponir Hossain/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/27/multimedia/00int-bangladesh-extremism-fhlc/00int-bangladesh-extremism-fhlc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waiting to break the Ramadan fast this month at the Baitul Mukarram National Mosque in Dhaka, Bangladesh.",
+                    "copyright": "Mohammad Ponir Hossain/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/27/multimedia/00int-bangladesh-extremism-fhlc/00int-bangladesh-extremism-fhlc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waiting to break the Ramadan fast this month at the Baitul Mukarram National Mosque in Dhaka, Bangladesh.",
+                    "copyright": "Mohammad Ponir Hossain/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Venezuelan Migrants Ask Supreme Court to Block Deportations",
+            "abstract": "Lawyers for Venezuelan migrants asked the justices to keep in place a pause on President Trump’s deportation plan, calling it “completely at odds” with limited wartime authority given by Congress.",
+            "url": "https://www.nytimes.com/2025/04/01/us/politics/supreme-court-venezuelan-deportations.html",
+            "uri": "nyt://article/53e3044c-53d8-599d-aaa1-77f288cd33b0",
+            "byline": "By Abbie VanSickle",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T14:12:50-04:00",
+            "created_date": "2025-04-01T14:12:50-04:00",
+            "published_date": "2025-04-01T14:12:50-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Deportation",
+                "Presidential Power (US)",
+                "Alien Enemies Act (1798)"
+            ],
+            "org_facet": [
+                "American Civil Liberties Union",
+                "Democracy Forward (Nonprofit)",
+                "Supreme Court (US)",
+                "Tren de Aragua (Gang)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01dc-scotus-venezuela-photo-vjhp/01dc-scotus-venezuela-photo-vjhp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A photograph released by El Salvador’s government showed U.S. deportees arriving at the Terrorism Confinement Center in Tecoluca, El Salvador, last month.",
+                    "copyright": "Secretaría De Prensa De La Presidencia"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01dc-scotus-venezuela-photo-vjhp/01dc-scotus-venezuela-photo-vjhp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A photograph released by El Salvador’s government showed U.S. deportees arriving at the Terrorism Confinement Center in Tecoluca, El Salvador, last month.",
+                    "copyright": "Secretaría De Prensa De La Presidencia"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01dc-scotus-venezuela-photo-vjhp/01dc-scotus-venezuela-photo-vjhp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A photograph released by El Salvador’s government showed U.S. deportees arriving at the Terrorism Confinement Center in Tecoluca, El Salvador, last month.",
+                    "copyright": "Secretaría De Prensa De La Presidencia"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Rubio Orders U.S. Diplomats to Scour Student Visa Applicants’ Social Media",
+            "abstract": "The order comes as President Trump expands deportation efforts, including of students who have spoken out in support of Palestinians during Israel’s war in Gaza.",
+            "url": "https://www.nytimes.com/2025/04/01/us/politics/student-visas-social-media.html",
+            "uri": "nyt://article/214c840e-c2c0-568c-b4d8-fca0ae8c178a",
+            "byline": "By Edward Wong",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T14:36:22-04:00",
+            "created_date": "2025-04-01T13:38:02-04:00",
+            "published_date": "2025-04-01T13:38:02-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "United States Politics and Government",
+                "Pro-Palestinian Campus Protests (2023- )",
+                "United States International Relations",
+                "Social Media",
+                "Visas",
+                "Terrorism"
+            ],
+            "org_facet": [
+                "Homeland Security Department",
+                "State Department"
+            ],
+            "per_facet": [
+                "Rubio, Marco",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01dc-diplo-visas01-photo-tgvw/01dc-diplo-visas01-photo-tgvw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Secretary of State Marco Rubio’s directive said that starting immediately, consular officers must refer certain student and exchange-visitor visa applicants to the fraud prevention unit for a mandatory social media check, according to two American officials.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01dc-diplo-visas01-photo-tgvw/01dc-diplo-visas01-photo-tgvw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Secretary of State Marco Rubio’s directive said that starting immediately, consular officers must refer certain student and exchange-visitor visa applicants to the fraud prevention unit for a mandatory social media check, according to two American officials.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01dc-diplo-visas01-photo-tgvw/01dc-diplo-visas01-photo-tgvw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Secretary of State Marco Rubio’s directive said that starting immediately, consular officers must refer certain student and exchange-visitor visa applicants to the fraud prevention unit for a mandatory social media check, according to two American officials.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Trump’s ‘Liberation Day’ Tariffs Are Coming, but at a Cost to U.S. Alliances",
+            "abstract": "President Trump is already showing signs of concern that his targets may team up against him.",
+            "url": "https://www.nytimes.com/2025/04/01/us/politics/trump-tariffs-nato-allies.html",
+            "uri": "nyt://article/a1462767-decf-5740-8004-e4edd5a00b39",
+            "byline": "By David E. Sanger",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T13:53:15-04:00",
+            "created_date": "2025-04-01T13:18:19-04:00",
+            "published_date": "2025-04-01T13:18:19-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "United States International Relations",
+                "International Trade and World Market",
+                "International Relations",
+                "Customs (Tariff)"
+            ],
+            "org_facet": [
+                "European Union",
+                "North Atlantic Treaty Organization"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01dc-trump-power1-kwtj/01dc-trump-power1-kwtj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump arrives at Joint Base Andrews, Md., on Sunday, after spending the weekend at his private residence at Mar-a-Lago.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01dc-trump-power1-kwtj/01dc-trump-power1-kwtj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump arrives at Joint Base Andrews, Md., on Sunday, after spending the weekend at his private residence at Mar-a-Lago.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01dc-trump-power1-kwtj/01dc-trump-power1-kwtj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump arrives at Joint Base Andrews, Md., on Sunday, after spending the weekend at his private residence at Mar-a-Lago.",
+                    "copyright": "Haiyun Jiang for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Fourth U.S. Soldier Is Found Dead in Lithuania",
+            "abstract": "The soldier and three others had gone on a training mission in a 70-ton vehicle that sank in a bog near the border with Belarus.",
+            "url": "https://www.nytimes.com/2025/04/01/world/europe/fourth-us-soldier-dead-lithuania.html",
+            "uri": "nyt://article/4c4947e9-3296-575a-a9e5-84d36c44ae85",
+            "byline": "By Michael Levenson",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T13:51:44-04:00",
+            "created_date": "2025-04-01T12:46:57-04:00",
+            "published_date": "2025-04-01T12:46:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Defense and Military Forces",
+                "Missing Persons"
+            ],
+            "org_facet": [
+                "United States Army"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Europe",
+                "Lithuania"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01xp-soldier-jwpz/01xp-soldier-jwpz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A woman at a shrine in Lithuania for three U.S. soldiers who were found dead earlier this week. The body of a fourth soldier was found in Lithuania on Tuesday.",
+                    "copyright": "Mindaugas Kulbis/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01xp-soldier-jwpz/01xp-soldier-jwpz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A woman at a shrine in Lithuania for three U.S. soldiers who were found dead earlier this week. The body of a fourth soldier was found in Lithuania on Tuesday.",
+                    "copyright": "Mindaugas Kulbis/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01xp-soldier-jwpz/01xp-soldier-jwpz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A woman at a shrine in Lithuania for three U.S. soldiers who were found dead earlier this week. The body of a fourth soldier was found in Lithuania on Tuesday.",
+                    "copyright": "Mindaugas Kulbis/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Millions of Women Will Lose Access to Contraception as a Result of Trump Aid Cuts",
+            "abstract": "The United States was a key supplier of contraceptives in many developing countries. The Trump administration has ended that support.",
+            "url": "https://www.nytimes.com/2025/04/01/health/usaid-contraception-cuts.html",
+            "uri": "nyt://article/abd434f1-7f0e-590a-9906-918ba72d9bfe",
+            "byline": "By Stephanie Nolen",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T12:58:18-04:00",
+            "created_date": "2025-04-01T11:00:09-04:00",
+            "published_date": "2025-04-01T11:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Foreign Aid",
+                "Birth Control and Family Planning",
+                "United States Politics and Government",
+                "Developing Countries",
+                "Medicine and Health",
+                "Women and Girls",
+                "United States International Relations",
+                "Pregnancy and Childbirth",
+                "Government Contracts and Procurement"
+            ],
+            "org_facet": [
+                "United States Agency for International Development"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/science/01HS-contraception-cuts-02/01HS-contraception-cuts-02-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waiting for a contraceptive implant procedure at a clinic in Epworth, Zimbabwe, in November.",
+                    "copyright": "Aaron Ufumeli/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/science/01HS-contraception-cuts-02/01HS-contraception-cuts-02-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waiting for a contraceptive implant procedure at a clinic in Epworth, Zimbabwe, in November.",
+                    "copyright": "Aaron Ufumeli/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/science/01HS-contraception-cuts-02/01HS-contraception-cuts-02-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waiting for a contraceptive implant procedure at a clinic in Epworth, Zimbabwe, in November.",
+                    "copyright": "Aaron Ufumeli/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "SpaceX Puts Humans in Orbit Over Earth’s Poles for the First Time",
+            "abstract": "Chun Wang, a Chinese-born crypto entrepreneur, paid an undisclosed amount for the mission. Some satellites are already in polar orbit, and researchers called it a routine flight.",
+            "url": "https://www.nytimes.com/2025/04/01/world/asia/spacex-rocket-launch.html",
+            "uri": "nyt://article/265e3530-5170-5b8d-b21b-31e9915f2f61",
+            "byline": "By Qasim Nauman and Isabella Kwai",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T08:54:17-04:00",
+            "created_date": "2025-04-01T08:54:17-04:00",
+            "published_date": "2025-04-01T08:54:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Private Spaceflight",
+                "Earth",
+                "Space and Astronomy"
+            ],
+            "org_facet": [
+                "Space Exploration Technologies Corp"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Arctic Regions",
+                "Florida"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/31xp-spacex-wpgm/31xp-spacex-wpgm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A SpaceX Falcon 9 rocket launching on Monday night in Florida with four private astronauts.",
+                    "copyright": "Joe Skipper/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/31xp-spacex-wpgm/31xp-spacex-wpgm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A SpaceX Falcon 9 rocket launching on Monday night in Florida with four private astronauts.",
+                    "copyright": "Joe Skipper/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/31xp-spacex-wpgm/31xp-spacex-wpgm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A SpaceX Falcon 9 rocket launching on Monday night in Florida with four private astronauts.",
+                    "copyright": "Joe Skipper/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Hooters Files for Bankruptcy, but Its Restaurants Will Stay Open",
+            "abstract": "A group that includes the restaurant’s founders will buy restaurants from the private equity firm that owns many locations of the chain.",
+            "url": "https://www.nytimes.com/2025/04/01/business/hooters-restaurant-bankruptcy.html",
+            "uri": "nyt://article/a9b2bb93-83ff-59a2-ae0a-559313f69440",
+            "byline": "By Claire Moses",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T08:01:08-04:00",
+            "created_date": "2025-04-01T08:01:08-04:00",
+            "published_date": "2025-04-01T08:01:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Bankruptcies",
+                "Restaurants",
+                "Franchises"
+            ],
+            "org_facet": [
+                "Hooters"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01xp-hooters1-lzcp/01xp-hooters1-lzcp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hooters restaurants around the country will continue operating during the bankruptcy proceedings. As the company said on a site explaining the transaction, “It’s always hang time at Hooters.”",
+                    "copyright": "Joe Raedle/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01xp-hooters1-lzcp/01xp-hooters1-lzcp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hooters restaurants around the country will continue operating during the bankruptcy proceedings. As the company said on a site explaining the transaction, “It’s always hang time at Hooters.”",
+                    "copyright": "Joe Raedle/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01xp-hooters1-lzcp/01xp-hooters1-lzcp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hooters restaurants around the country will continue operating during the bankruptcy proceedings. As the company said on a site explaining the transaction, “It’s always hang time at Hooters.”",
+                    "copyright": "Joe Raedle/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "U.S. Imposes Sanctions on Chinese and Hong Kong Officials for Pursuing Activists Abroad",
+            "abstract": "China’s former top spy catcher is among six security enforcers targeted as the Trump administration turns its attention to human rights issues in the city.",
+            "url": "https://www.nytimes.com/2025/04/01/world/asia/china-hong-kong-sanctions.html",
+            "uri": "nyt://article/4312063e-76bf-5fdb-9717-e2c48f8aa791",
+            "byline": "By Tiffany May",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T06:16:47-04:00",
+            "created_date": "2025-04-01T03:26:09-04:00",
+            "published_date": "2025-04-01T03:26:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "Embargoes and Sanctions",
+                "Politics and Government",
+                "Human Rights and Human Rights Violations"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Rubio, Marco"
+            ],
+            "geo_facet": [
+                "Hong Kong",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-hongkong-sanctions-01-tpkm/01int-hongkong-sanctions-01-tpkm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dong Jingwei, the director of Beijing’s Office for Safeguarding National Security in Hong Kong, speaking during an event last year.",
+                    "copyright": "Lam Yik/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-hongkong-sanctions-01-tpkm/01int-hongkong-sanctions-01-tpkm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dong Jingwei, the director of Beijing’s Office for Safeguarding National Security in Hong Kong, speaking during an event last year.",
+                    "copyright": "Lam Yik/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01int-hongkong-sanctions-01-tpkm/01int-hongkong-sanctions-01-tpkm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dong Jingwei, the director of Beijing’s Office for Safeguarding National Security in Hong Kong, speaking during an event last year.",
+                    "copyright": "Lam Yik/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Tuesday Briefing",
+            "abstract": "President Trump’s talk of a third term.",
+            "url": "https://www.nytimes.com/2025/04/01/briefing/trump-le-pen-israel.html",
+            "uri": "nyt://article/32c520fc-993f-5990-8474-e6b9575a6d0e",
+            "byline": "By Natasha Frost",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T00:55:16-04:00",
+            "created_date": "2025-04-01T00:55:16-04:00",
+            "published_date": "2025-04-01T00:55:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/01ambriefing-europe-nl-trump/01ambriefing-europe-nl-trump-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump told NBC News he was “not joking” about the possibility of a third term in office, which the Constitution prohibits.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/01ambriefing-europe-nl-trump/01ambriefing-europe-nl-trump-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump told NBC News he was “not joking” about the possibility of a third term in office, which the Constitution prohibits.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/01ambriefing-europe-nl-trump/31dc-trump-lameduck-topart-fcjw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump told NBC News he was “not joking” about the possibility of a third term in office, which the Constitution prohibits.",
+                    "copyright": "Kenny Holston/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "There’s No Party Like an Iftar Party for Bangladesh’s Aspiring Leaders",
+            "abstract": "During Ramadan, political parties used the events to signal potential alliances after the ouster of the country’s authoritarian leader.",
+            "url": "https://www.nytimes.com/2025/04/01/world/asia/bangladesh-politics.html",
+            "uri": "nyt://article/2ebe7340-614b-5046-9136-84f01ccdaa89",
+            "byline": "By Mujib Mashal",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T09:24:59-04:00",
+            "created_date": "2025-04-01T00:01:15-04:00",
+            "published_date": "2025-04-01T00:01:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Ramadan",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Bangladesh Nationalist Party",
+                "Jamaat-e-Islami"
+            ],
+            "per_facet": [
+                "Wazed, Hasina"
+            ],
+            "geo_facet": [
+                "Bangladesh"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/30/multimedia/30int-bangladesh-iftar-01-qfbj/30int-bangladesh-iftar-01-qfbj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Muslims preparing meals for iftar at the Baitul Mukarram National Mosque in Dhaka, Bangladesh, in March.",
+                    "copyright": "Mohammad Ponir Hossain/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/30/multimedia/30int-bangladesh-iftar-01-qfbj/30int-bangladesh-iftar-01-qfbj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Muslims preparing meals for iftar at the Baitul Mukarram National Mosque in Dhaka, Bangladesh, in March.",
+                    "copyright": "Mohammad Ponir Hossain/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/30/multimedia/30int-bangladesh-iftar-01-qfbj/30int-bangladesh-iftar-01-qfbj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Muslims preparing meals for iftar at the Baitul Mukarram National Mosque in Dhaka, Bangladesh, in March.",
+                    "copyright": "Mohammad Ponir Hossain/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Israel’s Military Strikes Near Beirut, Killing at Least 4",
+            "abstract": "The attack on the outskirts of Lebanon’s capital was the second in less than a week, raising fears that a cease-fire between Israel and Hezbollah could unravel.",
+            "url": "https://www.nytimes.com/2025/03/31/world/middleeast/israel-strike-lebanon-beirut.html",
+            "uri": "nyt://article/45c1279a-70d9-59fe-a872-36de9de49707",
+            "byline": "By Euan Ward and Yan Zhuang",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T09:20:22-04:00",
+            "created_date": "2025-03-31T22:40:42-04:00",
+            "published_date": "2025-03-31T22:40:42-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "War and Armed Conflicts",
+                "Israel-Gaza War (2023- )",
+                "Iran-Israel Proxy Conflict"
+            ],
+            "org_facet": [
+                "Hezbollah"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Beirut (Lebanon)",
+                "Israel",
+                "Dahiya (Lebanon)",
+                "Lebanon"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31xp-strike-gqth/31xp-strike-gqth-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1463,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A damaged building near Beirut, Lebanon, on Tuesday.",
+                    "copyright": "Ibrahim Amro/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31xp-strike-gqth/31xp-strike-gqth-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A damaged building near Beirut, Lebanon, on Tuesday.",
+                    "copyright": "Ibrahim Amro/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31xp-strike-gqth/31xp-strike-gqth-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A damaged building near Beirut, Lebanon, on Tuesday.",
+                    "copyright": "Ibrahim Amro/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "South Korea’s President Will Learn His Fate on Friday",
+            "abstract": "The Constitutional Court will announce on Friday whether Yoon Suk Yeol, who was impeached in December for declaring martial law, will be permanently removed from office or restored to power.",
+            "url": "https://www.nytimes.com/2025/03/31/world/asia/south-korea-yoon-impeach-court.html",
+            "uri": "nyt://article/1f64a260-0f56-58c2-b68e-67ce480a1b5c",
+            "byline": "By Choe Sang-Hun",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T02:07:18-04:00",
+            "created_date": "2025-03-31T22:17:08-04:00",
+            "published_date": "2025-03-31T22:17:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Impeachment",
+                "Martial Law",
+                "Politics and Government",
+                "Constitutions",
+                "Decisions and Verdicts"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Yoon Suk-yeol"
+            ],
+            "geo_facet": [
+                "South Korea"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00skorea-yoonHFO-khqj/00skorea-yoonHFO-khqj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The impeached president of South Korea, Yoon Suk Yeol, greeting supporters in Seoul last month.",
+                    "copyright": "Chung Sung-Jun/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00skorea-yoonHFO-khqj/00skorea-yoonHFO-khqj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The impeached president of South Korea, Yoon Suk Yeol, greeting supporters in Seoul last month.",
+                    "copyright": "Chung Sung-Jun/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00skorea-yoonHFO-khqj/00skorea-yoonHFO-khqj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The impeached president of South Korea, Yoon Suk Yeol, greeting supporters in Seoul last month.",
+                    "copyright": "Chung Sung-Jun/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Tuesday Briefing: A Shock Ruling in France",
+            "abstract": "Plus, lessons on happiness from Finland.",
+            "url": "https://www.nytimes.com/2025/03/31/briefing/le-pen-guilty-markets-tariffs-myanmar-earthquake-aid.html",
+            "uri": "nyt://article/c069a2c5-34fe-531f-899e-6e718a8a5dbc",
+            "byline": "By Emmett Lindner",
+            "item_type": "Article",
+            "updated_date": "2025-03-31T17:00:26-04:00",
+            "created_date": "2025-03-31T17:00:26-04:00",
+            "published_date": "2025-03-31T17:00:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01ambriefing-asia-nl-lepen-hvpg/01ambriefing-asia-nl-lepen-hvpg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marine Le Pen.",
+                    "copyright": "Thibaud Moritz/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01ambriefing-asia-nl-lepen-hvpg/01ambriefing-asia-nl-lepen-hvpg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marine Le Pen.",
+                    "copyright": "Thibaud Moritz/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/01ambriefing-asia-nl-lepen-hvpg/01ambriefing-asia-nl-lepen-hvpg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marine Le Pen.",
+                    "copyright": "Thibaud Moritz/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "U.A.E. Sentences Three People to Death for Killing an Israeli Rabbi",
+            "abstract": "Emirati authorities decided on a punishment for the “premeditated murder with terrorist intention” of Rabbi Zvi Kogan but offered no details about the crime.",
+            "url": "https://www.nytimes.com/2025/03/31/world/middleeast/uae-death-sentence-rabbi-killing.html",
+            "uri": "nyt://article/0501794e-187e-5382-bf20-0478d318e68b",
+            "byline": "By Ismaeel Naar",
+            "item_type": "Article",
+            "updated_date": "2025-03-31T21:37:39-04:00",
+            "created_date": "2025-03-31T16:23:55-04:00",
+            "published_date": "2025-03-31T16:23:55-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Anti-Semitism",
+                "Terrorism"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kogan, Zvi (d 2024)"
+            ],
+            "geo_facet": [
+                "United Arab Emirates",
+                "Israel",
+                "Dubai (United Arab Emirates)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31int-uae-rabbi-killing-klwh/31int-uae-rabbi-killing-klwh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The coffin of Rabbi Zvi Kogan during his funeral last year in Kfar Chabad, near Tel Aviv.",
+                    "copyright": "Abir Sultan/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31int-uae-rabbi-killing-klwh/31int-uae-rabbi-killing-klwh-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The coffin of Rabbi Zvi Kogan during his funeral last year in Kfar Chabad, near Tel Aviv.",
+                    "copyright": "Abir Sultan/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31int-uae-rabbi-killing-klwh/31int-uae-rabbi-killing-klwh-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The coffin of Rabbi Zvi Kogan during his funeral last year in Kfar Chabad, near Tel Aviv.",
+                    "copyright": "Abir Sultan/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "U.S. Has Spent $40 Million to Jail About 400 Migrants at Guantánamo",
+            "abstract": "The disclosure of the tab so far came after five senators visited the offshore operation, which they condemned as a waste of resources.",
+            "url": "https://www.nytimes.com/2025/03/31/us/politics/migrants-guantanamo-costs.html",
+            "uri": "nyt://article/5d78cc10-2cfb-58a2-a781-ec5060050a92",
+            "byline": "By Carol Rosenberg",
+            "item_type": "Article",
+            "updated_date": "2025-03-31T22:28:44-04:00",
+            "created_date": "2025-03-31T14:51:16-04:00",
+            "published_date": "2025-03-31T14:51:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Illegal Immigration",
+                "Immigration Detention",
+                "Immigration Shelters",
+                "Deportation",
+                "United States Defense and Military Forces",
+                "United States International Relations",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Homeland Security Department",
+                "Defense Department"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Guantanamo Bay Naval Base (Cuba)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31dc-gitmo-01-chlv/31dc-gitmo-01-chlv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The administration has sent fewer than 400 men, at least half of them Venezuelans, to the base since February as part of President Trump’s crackdown on illegal immigration.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31dc-gitmo-01-chlv/31dc-gitmo-01-chlv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The administration has sent fewer than 400 men, at least half of them Venezuelans, to the base since February as part of President Trump’s crackdown on illegal immigration.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31dc-gitmo-01-chlv/31dc-gitmo-01-chlv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The administration has sent fewer than 400 men, at least half of them Venezuelans, to the base since February as part of President Trump’s crackdown on illegal immigration.",
+                    "copyright": "Doug Mills/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Marine Le Pen Falls to the Rule of Law and a Great Battle Looms",
+            "abstract": "A court’s conviction of the far-right leader for embezzlement and its ban on her running for office have set off a new crisis for France.",
+            "url": "https://www.nytimes.com/2025/03/31/world/europe/marine-le-pen-embezzelment-democracy.html",
+            "uri": "nyt://article/cdfde675-c3f4-5989-8119-5b0122a4095a",
+            "byline": "By Roger Cohen",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T09:43:37-04:00",
+            "created_date": "2025-03-31T14:12:56-04:00",
+            "published_date": "2025-03-31T14:12:56-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "Politics and Government",
+                "Decisions and Verdicts",
+                "Courts and the Judiciary",
+                "Embezzlement",
+                "Elections",
+                "Democracy (Theory and Philosophy)"
+            ],
+            "org_facet": [
+                "National Rally (France)",
+                "European Parliament"
+            ],
+            "per_facet": [
+                "Le Pen, Marine",
+                "Bardella, Jordan (1995- )",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "France"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31int-lepen-analysis-new-vzbf/31int-lepen-analysis-new-vzbf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marine Le Pen, the leader of the far-right National Rally, leaving her party’s headquarters in Paris on Monday.",
+                    "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31int-lepen-analysis-new-vzbf/31int-lepen-analysis-new-vzbf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marine Le Pen, the leader of the far-right National Rally, leaving her party’s headquarters in Paris on Monday.",
+                    "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31int-lepen-analysis-new-vzbf/31int-lepen-analysis-new-vzbf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marine Le Pen, the leader of the far-right National Rally, leaving her party’s headquarters in Paris on Monday.",
+                    "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "What We Know About the Dispute at Prince Harry’s Charity",
+            "abstract": "Harry resigned from Sentebale, the charity he co-founded in memory of his mother, after a dispute erupted between the charity’s chair, Sophie Chandauka, and five of its trustees.",
+            "url": "https://www.nytimes.com/2025/03/31/world/europe/prince-harry-charity-dispute-harassment.html",
+            "uri": "nyt://article/93c814f8-8fbb-5846-a4e0-0923bfb92a89",
+            "byline": "By Lynsey Chutel",
+            "item_type": "Article",
+            "updated_date": "2025-03-31T17:34:05-04:00",
+            "created_date": "2025-03-31T13:36:29-04:00",
+            "published_date": "2025-03-31T13:36:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Philanthropy",
+                "Royal Families",
+                "Ethics and Official Misconduct"
+            ],
+            "org_facet": [
+                "Sentebale"
+            ],
+            "per_facet": [
+                "Harry, Duke of Sussex"
+            ],
+            "geo_facet": [
+                "Great Britain",
+                "Lesotho",
+                "Botswana",
+                "Africa"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31INT-UK-HARRY-EXPLAINER-qwvc/31INT-UK-HARRY-EXPLAINER-qwvc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Harry at a Sentebale charity event in London in 2019.",
+                    "copyright": "Pool photo by Matt Dunham"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31INT-UK-HARRY-EXPLAINER-qwvc/31INT-UK-HARRY-EXPLAINER-qwvc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Harry at a Sentebale charity event in London in 2019.",
+                    "copyright": "Pool photo by Matt Dunham"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31INT-UK-HARRY-EXPLAINER-qwvc/31INT-UK-HARRY-EXPLAINER-qwvc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prince Harry at a Sentebale charity event in London in 2019.",
+                    "copyright": "Pool photo by Matt Dunham"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "A Quarter-Billion Dollars for Defamation: Inside Greenpeace’s Huge Loss",
+            "abstract": "A pipeline company’s lawsuit against the environmental group could chill free speech, experts said. First Amendment issues are likely to figure prominently in an appeal.",
+            "url": "https://www.nytimes.com/2025/03/31/climate/greenpeace-energy-transfer-dakota-access-defamation-verdict.html",
+            "uri": "nyt://article/7c3e48a0-7b34-5d81-9159-4875fe419cb3",
+            "byline": "By Karen Zraick",
+            "item_type": "Article",
+            "updated_date": "2025-03-31T17:00:49-04:00",
+            "created_date": "2025-03-31T12:51:22-04:00",
+            "published_date": "2025-03-31T12:51:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Freedom of Speech and Expression",
+                "Demonstrations, Protests and Riots",
+                "Decisions and Verdicts",
+                "Civil Rights and Liberties",
+                "Suits and Litigation (Civil)",
+                "New York Times v Sullivan (Supreme Court Decision)",
+                "First Amendment (US Constitution)",
+                "Freedom of the Press",
+                "Compensation for Damages (Law)",
+                "Pipelines"
+            ],
+            "org_facet": [
+                "Energy Transfer Partners LP",
+                "Greenpeace"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "North Dakota",
+                "Standing Rock Sioux Reservation (ND-SD)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/28/multimedia/00cli-greenpeace-defamation-01-tzgp/00cli-greenpeace-defamation-01-tzgp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Greenpeace representatives outside the courthouse in Mandan, N.D., where the jury ruled against the environmental organization this month.",
+                    "copyright": "Jack Dura/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/28/multimedia/00cli-greenpeace-defamation-01-tzgp/00cli-greenpeace-defamation-01-tzgp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Greenpeace representatives outside the courthouse in Mandan, N.D., where the jury ruled against the environmental organization this month.",
+                    "copyright": "Jack Dura/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/28/multimedia/00cli-greenpeace-defamation-01-tzgp/00cli-greenpeace-defamation-01-tzgp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Greenpeace representatives outside the courthouse in Mandan, N.D., where the jury ruled against the environmental organization this month.",
+                    "copyright": "Jack Dura/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "What We Know About Marine Le Pen’s Embezzlement Conviction",
+            "abstract": "The far-right French politician was a leading candidate to become the country’s next president, but has now been barred from running for public office for five years.",
+            "url": "https://www.nytimes.com/article/marine-le-pen-embezzlement-france.html",
+            "uri": "nyt://article/c1d31d19-4d2c-53de-8736-6c8a62144a15",
+            "byline": "By Amelia Nierenberg and Aurelien Breeden",
+            "item_type": "Article",
+            "updated_date": "2025-04-01T10:30:47-04:00",
+            "created_date": "2025-03-31T12:08:28-04:00",
+            "published_date": "2025-03-31T12:08:28-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Embezzlement",
+                "Decisions and Verdicts",
+                "Elections",
+                "Right-Wing Extremism and Alt-Right"
+            ],
+            "org_facet": [
+                "National Rally (France)",
+                "European Parliament"
+            ],
+            "per_facet": [
+                "Le Pen, Marine"
+            ],
+            "geo_facet": [
+                "France"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31int-france-lepen-wwk-01-khcb/31int-france-lepen-wwk-01-khcb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "French far-right leader Marine Le Pen leaving the courtroom in Paris Monday.",
+                    "copyright": "Thibault Camus/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31int-france-lepen-wwk-01-khcb/31int-france-lepen-wwk-01-khcb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "French far-right leader Marine Le Pen leaving the courtroom in Paris Monday.",
+                    "copyright": "Thibault Camus/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/03/31/multimedia/31int-france-lepen-wwk-01-khcb/31int-france-lepen-wwk-01-khcb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "French far-right leader Marine Le Pen leaving the courtroom in Paris Monday.",
+                    "copyright": "Thibault Camus/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "insider",
+            "subsection": "",
+            "title": "Investigating a Sprawling Money Laundering Network",
+            "abstract": "Two reporters spent months learning the intricacies of a sprawling network of scammers.",
+            "url": "https://www.nytimes.com/2025/03/31/insider/cambodia-money-laundering-huione.html",
+            "uri": "nyt://article/d7965c58-01c0-5bbc-871a-7c60846d738a",
+            "byline": "By Sarah Bahr",
+            "item_type": "Article",
+            "updated_date": "2025-03-31T23:16:33-04:00",
+            "created_date": "2025-03-31T11:00:06-04:00",
+            "published_date": "2025-03-31T11:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "Times Insider",
+            "des_facet": [
+                "Money Laundering",
+                "Frauds and Swindling",
+                "Banking and Financial Institutions",
+                "Robberies and Thefts"
+            ],
+            "org_facet": [
+                "Telegram LLC",
+                "Tether Operations Ltd"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Cambodia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/31a2_insider-money-laundering-wqmz/31a2_insider-money-laundering-wqmz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Times reporter Selam Gebrekidan recently traveled to Sihanoukville, Cambodia, where she reported on scamming and money laundering.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/31a2_insider-money-laundering-wqmz/31a2_insider-money-laundering-wqmz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Times reporter Selam Gebrekidan recently traveled to Sihanoukville, Cambodia, where she reported on scamming and money laundering.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/04/01/multimedia/31a2_insider-money-laundering-wqmz/31a2_insider-money-laundering-wqmz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Times reporter Selam Gebrekidan recently traveled to Sihanoukville, Cambodia, where she reported on scamming and money laundering.",
+                    "copyright": "Chang W. Lee/The New York Times"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}

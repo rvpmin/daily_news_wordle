@@ -1,0 +1,63 @@
+services:
+  db:
+    image: postgres:15
+    container_name: postgres
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - ./data:/var/lib/postgresql/data
+    expose:
+      - '5432'
+    networks:
+      - production
+    restart: unless-stopped
+
+  wagtail:
+    build: ./
+    container_name: wagtail
+    command: gunicorn www.wsgi:application --bind 0.0.0.0:8000 --env DJANGO_SETTINGS_MODULE=www.settings.production
+    environment:
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - SECRET_KEY=${SECRET_KEY}
+      - DATABASE_URL=postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB}
+    volumes:
+      - ./:/app
+    depends_on:
+      - db
+    networks:
+      - production
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.wagtail.rule=Host(`dnw.lincc.unam.mx`)"
+      - "traefik.http.routers.wagtail.entrypoints=web, websecure"
+      - 'traefik.http.routers.wagtail.tls=true'
+      - "traefik.http.routers.wagtail.tls.certresolver=production"
+      - "traefik.http.services.wagtail.loadbalancer.server.port=8000"
+      - "traefik.docker.network=production"
+      - "traefik.http.middlewares.wagtail-headers.headers.customrequestheaders.X-Forwarded-Proto=https"
+      
+  nginx:
+    image: nginx:alpine
+    container_name: nginx
+    depends_on:
+      - wagtail
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    networks:
+      - production
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.nginx.rule=Host(`dnw.lincc.unam.mx`)"
+      - "traefik.http.routers.nginx.entrypoints=web, websecure"
+      - "traefik.http.routers.nginx.tls.certresolver=production"
+      - "traefik.http.services.nginx.loadbalancer.server.port=80"
+      - "traefik.docker.network=web"
+
+networks:
+  production:
+    name: production
+    external: true

@@ -26,4 +26,3 @@ except json.JSONDecodeError:
     print("Error al decodificar la respuesta JSON")
 except Exception as e:
     print(f"Error inesperado: {e}")
-#print("https://api.nytimes.com/svc/mostpopular/v2/viewed/1.json?api-key=uAoMAen9WjPa9A0GXsDI39V5u92XdT59"== response.request.url)

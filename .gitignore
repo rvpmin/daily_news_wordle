@@ -169,3 +169,21 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+".idea/" 
+
+
+# Directorios de IDEs
+.idea/
+.vscode/
+__pycache__/
+
+# Archivos específicos de Python
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Archivos de entorno
+.env
+venv/
+env/

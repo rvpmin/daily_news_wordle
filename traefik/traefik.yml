@@ -14,6 +14,6 @@ providers:
 certificatesResolvers:
   myresolver:
     acme:
-      email: vdelaluz@enesmorelia.unam.mx
+      email: roxanaperezmedina6@gmail.com
       storage: acme.json
       tlsChallenge: {}

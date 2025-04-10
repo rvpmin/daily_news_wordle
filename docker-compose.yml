@@ -52,7 +52,7 @@ services:
       - production
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.wagtail.rule=Host(`dnw.lincc.unam.mx`)"
+      - "traefik.http.routers.wagtail.rule=Host(`dnw.lincc.dev`)"
       - "traefik.http.routers.wagtail.entrypoints=web, websecure"
       - 'traefik.http.routers.wagtail.tls=true'
       - "traefik.http.routers.wagtail.tls.certresolver=production"
@@ -71,7 +71,7 @@ services:
       - production
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.nginx.rule=Host(`dnw.lincc.unam.mx`)"
+      - "traefik.http.routers.nginx.rule=Host(`dnw.lincc.dev`)"
       - "traefik.http.routers.nginx.entrypoints=web, websecure"
       - "traefik.http.routers.nginx.tls.certresolver=production"
       - "traefik.http.services.nginx.loadbalancer.server.port=80"

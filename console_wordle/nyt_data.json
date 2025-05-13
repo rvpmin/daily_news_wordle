@@ -1,0 +1,2268 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "section": "World News",
+    "last_updated": "2025-05-10T13:32:14-04:00",
+    "num_results": 36,
+    "results": [
+        {
+            "section": "",
+            "subsection": "",
+            "title": "India and Pakistan Agree to Cease-Fire but Clashes Persist",
+            "abstract": "The truce came after several days of the countries’ most expansive fighting in decades. One Indian official said the country would “deal strongly” with any violations.",
+            "url": "https://www.nytimes.com/live/2025/05/10/world/pakistan-india-kashmir",
+            "uri": "nyt://promo/8788edb3-85fa-5a98-a323-e5d82b12500e",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2025-05-10T17:00:26-04:00",
+            "created_date": "2025-05-10T13:27:47-04:00",
+            "published_date": "2025-05-10T13:27:47-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-promo-430pmEST-blmg/10india-pakistan-promo-430pmEST-blmg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Husnain Ali/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-promo-430pmEST-blmg/10india-pakistan-promo-430pmEST-blmg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Husnain Ali/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-promo-430pmEST-blmg/10india-pakistan-promo-430pmEST-blmg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Husnain Ali/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Leo XIV Outlines a Path for a Modern Church That Follows Francis’ Steps",
+            "abstract": "The new pope said he would be guided by a key document that his predecessor wrote listing the church’s priorities, including a “loving care for the least and the rejected.”",
+            "url": "https://www.nytimes.com/2025/05/10/world/europe/leo-xiv-pope-francis-catholic-church.html",
+            "uri": "nyt://article/2d7c2339-8ba6-5cd9-91d3-b8d4157673a9",
+            "byline": "By Emma Bubola",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T14:36:08-04:00",
+            "created_date": "2025-05-10T09:19:23-04:00",
+            "published_date": "2025-05-10T09:19:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Popes"
+            ],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Leo XIV",
+                "Francis"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10pope-speech-wztg/10pope-speech-wztg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leo XIV, on Thursday, after he became pope. On Saturday, the pope said that advances in artificial intelligence would “pose new challenges for the defense of human dignity, justice and labor.”",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10pope-speech-wztg/10pope-speech-wztg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leo XIV, on Thursday, after he became pope. On Saturday, the pope said that advances in artificial intelligence would “pose new challenges for the defense of human dignity, justice and labor.”",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10pope-speech-wztg/10pope-speech-wztg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leo XIV, on Thursday, after he became pope. On Saturday, the pope said that advances in artificial intelligence would “pose new challenges for the defense of human dignity, justice and labor.”",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "The Trade War’s Impact on Your Barbecue: Pricier Burgers",
+            "abstract": "Americans are eating record amounts of Brazilian beef. Now, tariffs and trade wars could push up U.S. prices and send more of it to China.",
+            "url": "https://www.nytimes.com/2025/05/10/world/americas/trade-war-burgers-brazil-meat.html",
+            "uri": "nyt://article/c95916c9-47b4-5ccd-87a7-f987bad251df",
+            "byline": "By Ana Ionova",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T05:00:19-04:00",
+            "created_date": "2025-05-10T05:00:19-04:00",
+            "published_date": "2025-05-10T05:00:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Beef",
+                "International Trade and World Market",
+                "Customs (Tariff)",
+                "United States International Relations",
+                "Protectionism (Trade)",
+                "Cattle",
+                "Meat"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Da Silva, Luiz Inacio Lula"
+            ],
+            "geo_facet": [
+                "Brazil",
+                "China",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-brazil-us-beef-bhlm/00int-brazil-us-beef-bhlm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1385,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hamburger patties grilled in American backyard barbecues and fast-food restaurants are often a blend of ground beef, both homegrown and imported from other countries, especially Brazil.",
+                    "copyright": "Francesco Tonelli for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-brazil-us-beef-bhlm/00int-brazil-us-beef-bhlm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hamburger patties grilled in American backyard barbecues and fast-food restaurants are often a blend of ground beef, both homegrown and imported from other countries, especially Brazil.",
+                    "copyright": "Francesco Tonelli for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-brazil-us-beef-bhlm/00int-brazil-us-beef-bhlm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hamburger patties grilled in American backyard barbecues and fast-food restaurants are often a blend of ground beef, both homegrown and imported from other countries, especially Brazil.",
+                    "copyright": "Francesco Tonelli for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "World Catholics See the First American Pope as Hardly American",
+            "abstract": "Catholics around the world were skeptical at first about an American pope. But Pope Leo XIV’s multicultural and multilingual identity has put them at ease.",
+            "url": "https://www.nytimes.com/2025/05/10/world/americas/pope-leo-american-popular-world-reaction.html",
+            "uri": "nyt://article/497ab20d-e645-5fe0-83ff-5ff9a91229ad",
+            "byline": "By Patricia Mazzei",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T15:27:56-04:00",
+            "created_date": "2025-05-10T10:35:17-04:00",
+            "published_date": "2025-05-10T10:35:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Popes",
+                "United States Politics and Government",
+                "Cardinals (Roman Catholic Prelates)",
+                "Religion-State Relations",
+                "Citizenship and Naturalization"
+            ],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Leo XIV",
+                "Francis",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-global-bftj/10int-pope-global-bftj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Peruvians celebrating the election of Cardinal Robert Prevost as the new pope, in the city of Chiclayo, Peru, where he once served as bishop.",
+                    "copyright": "Marco Garro for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-global-bftj/10int-pope-global-bftj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Peruvians celebrating the election of Cardinal Robert Prevost as the new pope, in the city of Chiclayo, Peru, where he once served as bishop.",
+                    "copyright": "Marco Garro for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-global-bftj/10int-pope-global-bftj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Peruvians celebrating the election of Cardinal Robert Prevost as the new pope, in the city of Chiclayo, Peru, where he once served as bishop.",
+                    "copyright": "Marco Garro for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Putin Puts on Show of Defiance as Cease-Fire Talks Drag On",
+            "abstract": "Russia’s president used the celebration of victory in World War II to highlight the resources he has to keep fighting in Ukraine.",
+            "url": "https://www.nytimes.com/2025/05/10/world/europe/putin-russia-victory-day-parade.html",
+            "uri": "nyt://article/76cd7d0a-a1fb-5c6b-9b3f-555ea2d20b23",
+            "byline": "By Paul Sonne",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T06:49:21-04:00",
+            "created_date": "2025-05-10T05:01:41-04:00",
+            "published_date": "2025-05-10T05:01:41-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "United States Politics and Government",
+                "United States International Relations",
+                "Peace Process",
+                "Embargoes and Sanctions"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-russia-assess-1-qlwz/10int-russia-assess-1-qlwz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1289,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The annual Victory Day Parade, in Moscow on Friday, signaled President Vladimir V. Putin’s ability to continue the war in Ukraine.",
+                    "copyright": "Maxim Shemetov/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-russia-assess-1-qlwz/10int-russia-assess-1-qlwz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The annual Victory Day Parade, in Moscow on Friday, signaled President Vladimir V. Putin’s ability to continue the war in Ukraine.",
+                    "copyright": "Maxim Shemetov/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-russia-assess-1-qlwz/10int-russia-assess-1-qlwz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The annual Victory Day Parade, in Moscow on Friday, signaled President Vladimir V. Putin’s ability to continue the war in Ukraine.",
+                    "copyright": "Maxim Shemetov/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "European Leaders Visit Kyiv and Press Russia for a 30-Day Cease-Fire",
+            "abstract": "They said that if President Vladimir V. Putin did not agree to the cease-fire, more sanctions would be imposed.",
+            "url": "https://www.nytimes.com/2025/05/10/world/europe/ukraine-war-visit-starmer-macron-zelensky-merz.html",
+            "uri": "nyt://article/f7bab1a1-2d6c-59a0-8f54-97c3a81b0033",
+            "byline": "By Marc Santora",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T14:15:20-04:00",
+            "created_date": "2025-05-10T07:15:11-04:00",
+            "published_date": "2025-05-10T07:15:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Merz, Friedrich",
+                "Macron, Emmanuel (1977- )",
+                "Putin, Vladimir V",
+                "Starmer, Keir"
+            ],
+            "geo_facet": [
+                "Europe",
+                "Ukraine",
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Donald Tusk of Poland, left, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany on Saturday Kyiv, Ukraine.",
+                    "copyright": "Valentyn Ogirenko/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Donald Tusk of Poland, left, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany on Saturday Kyiv, Ukraine.",
+                    "copyright": "Valentyn Ogirenko/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Donald Tusk of Poland, left, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany on Saturday Kyiv, Ukraine.",
+                    "copyright": "Valentyn Ogirenko/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Europe Wants to Arm Ukraine, but It’s Losing a Race Against Time",
+            "abstract": "President Trump’s insistence that the United States do less toward securing Europe means that allies, scrambling to arm themselves, have less to give to Ukraine.",
+            "url": "https://www.nytimes.com/2025/05/10/world/europe/eu-ukraine-weapons.html",
+            "uri": "nyt://article/cc142485-c624-55fc-bba7-f874b16dda1e",
+            "byline": "By Lara Jakes",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T07:06:53-04:00",
+            "created_date": "2025-05-10T05:01:36-04:00",
+            "published_date": "2025-05-10T05:01:36-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "United States Politics and Government",
+                "Russian Invasion of Ukraine (2022)",
+                "United States International Relations",
+                "Foreign Aid",
+                "Missiles and Missile Defense Systems",
+                "International Relations",
+                "Arms Trade",
+                "Peace Process"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-weapons-fkch/10int-ukraine-weapons-fkch-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Men worked on drones in a basement in Ukraine. With American aid uncertain, Ukraine is expanding fighting units with domestically assembled exploding drones.",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-weapons-fkch/10int-ukraine-weapons-fkch-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Men worked on drones in a basement in Ukraine. With American aid uncertain, Ukraine is expanding fighting units with domestically assembled exploding drones.",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-weapons-fkch/10int-ukraine-weapons-fkch-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Men worked on drones in a basement in Ukraine. With American aid uncertain, Ukraine is expanding fighting units with domestically assembled exploding drones.",
+                    "copyright": "Tyler Hicks/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Voice of Lay Catholics Is Likely to Be Heard in Leo XIV’s Church",
+            "abstract": "When still a cardinal, the new pope led discussions on key issues facing the church during which “every voice had equal value,” whether an archbishop or an unordained believer.",
+            "url": "https://www.nytimes.com/2025/05/10/world/europe/pope-leo-xiv-lay-catholics-synodal.html",
+            "uri": "nyt://article/062b40f4-18ec-53fb-8548-5ecc9f80a6f6",
+            "byline": "By Motoko Rich",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T09:12:54-04:00",
+            "created_date": "2025-05-10T05:03:01-04:00",
+            "published_date": "2025-05-10T05:03:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Popes",
+                "Religion and Belief",
+                "Cardinals (Roman Catholic Prelates)",
+                "Clergy"
+            ],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Leo XIV",
+                "Francis"
+            ],
+            "geo_facet": [
+                "Vatican City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-synod-tlkq/10int-pope-synod-tlkq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When Pope Leo XIV gave his first address as pontiff, he called for a “synodal church,” indicating that he would continue the practice of listening closely to many voices.",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-synod-tlkq/10int-pope-synod-tlkq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When Pope Leo XIV gave his first address as pontiff, he called for a “synodal church,” indicating that he would continue the practice of listening closely to many voices.",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-synod-tlkq/10int-pope-synod-tlkq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When Pope Leo XIV gave his first address as pontiff, he called for a “synodal church,” indicating that he would continue the practice of listening closely to many voices.",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "This Is the Trade Conflict Xi Jinping Has Been Waiting For",
+            "abstract": "For years, the leader of China has planned to make the world dependent on its exports and know-how. But the strategy has costs for his own country.",
+            "url": "https://www.nytimes.com/2025/05/10/world/asia/xi-jinping-china-trade-war.html",
+            "uri": "nyt://article/3bbdbe26-4c73-50b2-bca7-458f01583e67",
+            "byline": "By David Pierson",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T07:50:33-04:00",
+            "created_date": "2025-05-10T00:01:12-04:00",
+            "published_date": "2025-05-10T00:01:12-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "International Relations",
+                "Embargoes and Sanctions",
+                "United States Politics and Government",
+                "United States International Relations",
+                "International Trade and World Market",
+                "United States Economy",
+                "Customs (Tariff)",
+                "Economic Conditions and Trends",
+                "Factories and Manufacturing"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Xi Jinping",
+                "Froman, Michael B",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "China",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-china-us-01-fjqm/00int-china-us-01-fjqm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When the Trump administration put huge tariffs on Chinese goods, Xi Jinping was able to go on the offensive.",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-china-us-01-fjqm/00int-china-us-01-fjqm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When the Trump administration put huge tariffs on Chinese goods, Xi Jinping was able to go on the offensive.",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-china-us-01-fjqm/00int-china-us-01-fjqm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "When the Trump administration put huge tariffs on Chinese goods, Xi Jinping was able to go on the offensive.",
+                    "copyright": "Eric Lee/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "India and Pakistan Announce Cease-Fire but Clashes Persist",
+            "abstract": "President Trump also announced the truce, saying it had been mediated by the United States, although only Pakistan quickly acknowledged an American role.",
+            "url": "https://www.nytimes.com/2025/05/10/world/asia/india-pakistan-conflict.html",
+            "uri": "nyt://article/e5d8ac99-d586-5955-b08d-526af0fe6dc2",
+            "byline": "By Anupreeta Das, Mujib Mashal and Salman Masood",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T16:48:06-04:00",
+            "created_date": "2025-05-10T02:21:04-04:00",
+            "published_date": "2025-05-10T02:21:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "War and Armed Conflicts",
+                "Military Bases and Installations",
+                "Missiles and Missile Defense Systems",
+                "Defense and Military Forces",
+                "Territorial Disputes"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "India",
+                "Pakistan",
+                "Kashmir"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-india-pakistan-leadall-wcpm/10int-india-pakistan-leadall-wcpm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Celebrations after the announcement of a cease-fire between Pakistan and India on Saturday in Multan, Pakistan.",
+                    "copyright": "Asim Tanveer/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-india-pakistan-leadall-wcpm/10int-india-pakistan-leadall-wcpm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Celebrations after the announcement of a cease-fire between Pakistan and India on Saturday in Multan, Pakistan.",
+                    "copyright": "Asim Tanveer/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-india-pakistan-leadall-wcpm/10int-india-pakistan-leadall-wcpm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Celebrations after the announcement of a cease-fire between Pakistan and India on Saturday in Multan, Pakistan.",
+                    "copyright": "Asim Tanveer/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "How Macron Became a Close Zelensky Ally",
+            "abstract": "The French and Ukrainian presidents have a particular bond, built on a common goal of protecting Ukraine and deflecting Russia.",
+            "url": "https://www.nytimes.com/2025/05/10/world/europe/macron-zelensky-relationship.html",
+            "uri": "nyt://article/132dbb1a-67c0-50cf-be00-8575d265f60d",
+            "byline": "By Catherine Porter and Constant Méheut",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T04:12:36-04:00",
+            "created_date": "2025-05-10T00:01:09-04:00",
+            "published_date": "2025-05-10T00:01:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "United States International Relations",
+                "Russian Invasion of Ukraine (2022)",
+                "Politics and Government",
+                "Foreign Aid",
+                "Defense and Military Forces",
+                "Peace Process"
+            ],
+            "org_facet": [
+                "Elysee Palace (Paris, France)"
+            ],
+            "per_facet": [
+                "Macron, Emmanuel (1977- )",
+                "Putin, Vladimir V",
+                "Trump, Donald J",
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Europe",
+                "Russia",
+                "Ukraine",
+                "France"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-macron-zelensky-01-wpzh/10int-macron-zelensky-01-wpzh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Emmanuel Macron of France, right, and President Volodymyr Zelensky of Ukraine preparing to board a flight from a military airport near Paris in 2023.",
+                    "copyright": "Pool photo by Mohammed Badra"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-macron-zelensky-01-wpzh/10int-macron-zelensky-01-wpzh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Emmanuel Macron of France, right, and President Volodymyr Zelensky of Ukraine preparing to board a flight from a military airport near Paris in 2023.",
+                    "copyright": "Pool photo by Mohammed Badra"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-macron-zelensky-01-wpzh/10int-macron-zelensky-01-wpzh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Emmanuel Macron of France, right, and President Volodymyr Zelensky of Ukraine preparing to board a flight from a military airport near Paris in 2023.",
+                    "copyright": "Pool photo by Mohammed Badra"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Billionaires’ Battle Over a Sculpture Exposes a Mysterious Art Market",
+            "abstract": "David Geffen and Justin Sun’s unusually public dispute over ownership of a Giacometti sculpture valued at tens of millions of dollars gives a glimpse into a shrouded world.",
+            "url": "https://www.nytimes.com/2025/05/10/world/europe/geffen-sun-giacometti-nez.html",
+            "uri": "nyt://article/2423fc72-c5f3-582d-ba8f-a3986d98bfce",
+            "byline": "By Ephrat Livni",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T00:01:13-04:00",
+            "created_date": "2025-05-10T00:01:13-04:00",
+            "published_date": "2025-05-10T00:01:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Frauds and Swindling",
+                "Art",
+                "Collectors and Collections",
+                "Suits and Litigation (Civil)",
+                "Robberies and Thefts",
+                "Virtual Currency"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Geffen, David",
+                "Sun, Justin (1990- )",
+                "Giacometti, Alberto"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/00int-Giacometti-Lawsuit-lhcg/00int-Giacometti-Lawsuit-lhcg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alberto Giacometti’s “Le Nez\" on display at Sotheby’s in New York City in 2021.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/00int-Giacometti-Lawsuit-lhcg/00int-Giacometti-Lawsuit-lhcg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alberto Giacometti’s “Le Nez\" on display at Sotheby’s in New York City in 2021.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/00int-Giacometti-Lawsuit-lhcg/00int-Giacometti-Lawsuit-lhcg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alberto Giacometti’s “Le Nez\" on display at Sotheby’s in New York City in 2021.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Britain’s Roller-Coaster Ride to a Trade Deal With Trump",
+            "abstract": "At times during weeks of thorny negotiations, the efforts of Prime Minister Keir Starmer’s government seemed destined to fail.",
+            "url": "https://www.nytimes.com/2025/05/09/world/europe/uk-trade-deal-tariffs-trump-starmer.html",
+            "uri": "nyt://article/bf2ec53a-3a85-5170-b244-dd644147e378",
+            "byline": "By Mark Landler",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T23:22:00-04:00",
+            "created_date": "2025-05-09T05:01:38-04:00",
+            "published_date": "2025-05-09T05:01:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Trade and World Market",
+                "Customs (Tariff)",
+                "United States International Relations"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Starmer, Keir",
+                "Trump, Donald J",
+                "Darroch, Kim (1954- )",
+                "Charles III, King of the United Kingdom"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-uk-trade-fbwz/09int-uk-trade-fbwz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Keir Starmer of Britain, center, discussed over the phone a trade deal with President Donald J. Trump, at a car factory in the West Midlands, England on Thursday.",
+                    "copyright": "Pool photo by Alberto Pezzali"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-uk-trade-fbwz/09int-uk-trade-fbwz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Keir Starmer of Britain, center, discussed over the phone a trade deal with President Donald J. Trump, at a car factory in the West Midlands, England on Thursday.",
+                    "copyright": "Pool photo by Alberto Pezzali"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-uk-trade-fbwz/09int-uk-trade-fbwz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Keir Starmer of Britain, center, discussed over the phone a trade deal with President Donald J. Trump, at a car factory in the West Midlands, England on Thursday.",
+                    "copyright": "Pool photo by Alberto Pezzali"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "‘Enough Is Enough’: Report of a Child’s Rape Enrages South Africans",
+            "abstract": "A mother’s call for justice has challenged a culture of shame and inspired a nationwide movement to tackle the crisis of sexual violence.",
+            "url": "https://www.nytimes.com/2025/05/09/world/africa/south-africa-rape-sexual-violence-cwecwe.html",
+            "uri": "nyt://article/cecd127c-cf7b-5851-8183-5c0a7dde6a91",
+            "byline": "By Zimasa Matiwane and John Eligon",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T23:02:52-04:00",
+            "created_date": "2025-05-09T00:01:09-04:00",
+            "published_date": "2025-05-09T00:01:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Domestic Violence",
+                "Sex Crimes",
+                "Demonstrations, Protests and Riots",
+                "Police",
+                "Gender",
+                "Women and Girls",
+                "Women's Rights"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Ramaphosa, Cyril"
+            ],
+            "geo_facet": [
+                "South Africa"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-safrica-rape01-photo-bkmg/00int-safrica-rape01-photo-bkmg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters in Matatiele, South Africa, calling for justice for a 7-year-old girl known as Cwecwe who said she was raped.",
+                    "copyright": "Joao Silva/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-safrica-rape01-photo-bkmg/00int-safrica-rape01-photo-bkmg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters in Matatiele, South Africa, calling for justice for a 7-year-old girl known as Cwecwe who said she was raped.",
+                    "copyright": "Joao Silva/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-safrica-rape01-photo-bkmg/00int-safrica-rape01-photo-bkmg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters in Matatiele, South Africa, calling for justice for a 7-year-old girl known as Cwecwe who said she was raped.",
+                    "copyright": "Joao Silva/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "What We Know About the Terrorist Groups India Said It Targeted",
+            "abstract": "India has accused Pakistan of continuing to support Lashkar-e-Taiba and Jaish-e-Muhammad. Pakistan has rejected those claims.",
+            "url": "https://www.nytimes.com/2025/05/10/world/asia/what-is-lashkar-e-taiba-pakistan-kashmir-terror-groups.html",
+            "uri": "nyt://article/97c35c13-3dac-5efd-ab93-e2677f1cce36",
+            "byline": "By Pragati K.B., Mujib Mashal and Zia ur-Rehman",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T10:49:18-04:00",
+            "created_date": "2025-05-10T10:49:18-04:00",
+            "published_date": "2025-05-10T10:49:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Terrorism",
+                "International Relations",
+                "Territorial Disputes",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [
+                "Jaish-e-Muhammad",
+                "Lashkar-e-Taiba"
+            ],
+            "per_facet": [
+                "Azhar, Maulana Masood",
+                "Saeed, Hafiz Muhammad"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-terror-groups1-zcbf/10india-pakistan-terror-groups1-zcbf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Indian paramilitary soldier at Dal Lake, a popular tourist destination in the part of Kashmir that India controls.",
+                    "copyright": "Yawar Nazir/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-terror-groups1-zcbf/10india-pakistan-terror-groups1-zcbf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Indian paramilitary soldier at Dal Lake, a popular tourist destination in the part of Kashmir that India controls.",
+                    "copyright": "Yawar Nazir/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-terror-groups1-zcbf/10india-pakistan-terror-groups1-zcbf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Indian paramilitary soldier at Dal Lake, a popular tourist destination in the part of Kashmir that India controls.",
+                    "copyright": "Yawar Nazir/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "India and Pakistan, old enemies, had a new weapon this time: drones.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/live/2025/05/10/world/pakistan-india-kashmir/india-and-pakistan-old-enemies-had-a-new-weapon-this-time-drones",
+            "uri": "nyt://article/47678187-751d-5c3e-8841-796d1451b843",
+            "byline": "By Lara Jakes",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T10:23:38-04:00",
+            "created_date": "2025-05-10T10:23:38-04:00",
+            "published_date": "2025-05-10T10:23:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-drones-bgwl/10india-pakistan-drones-bgwl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Kamikaze drone deployed in Ukraine in 2023. Both India and Pakistan have been developing their respective drone-building industries in recent years, and both import drones from foreign allies.",
+                    "copyright": "Nicole Tung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-drones-bgwl/10india-pakistan-drones-bgwl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Kamikaze drone deployed in Ukraine in 2023. Both India and Pakistan have been developing their respective drone-building industries in recent years, and both import drones from foreign allies.",
+                    "copyright": "Nicole Tung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-drones-bgwl/10india-pakistan-drones-bgwl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Kamikaze drone deployed in Ukraine in 2023. Both India and Pakistan have been developing their respective drone-building industries in recent years, and both import drones from foreign allies.",
+                    "copyright": "Nicole Tung for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Here’s the latest.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/live/2025/05/10/world/pakistan-india-kashmir/india-pakistan-truce-trump",
+            "uri": "nyt://article/80a96906-f7e4-5bb4-8a22-6de361be8407",
+            "byline": "By Anupreeta Das, Mujib Mashal and Qasim Nauman",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T15:38:37-04:00",
+            "created_date": "2025-05-10T08:41:34-04:00",
+            "published_date": "2025-05-10T08:41:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Rubio, Marco"
+            ],
+            "geo_facet": [
+                "India",
+                "Pakistan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-header-2-ktfq/10india-pakistan-header-2-ktfq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Indian policeman stands outside a damaged house in Jammu, Kashmir, on Saturday.",
+                    "copyright": "Rakesh Bakshi/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-header-2-ktfq/10india-pakistan-header-2-ktfq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Indian policeman stands outside a damaged house in Jammu, Kashmir, on Saturday.",
+                    "copyright": "Rakesh Bakshi/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-header-2-ktfq/10india-pakistan-header-2-ktfq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Indian policeman stands outside a damaged house in Jammu, Kashmir, on Saturday.",
+                    "copyright": "Rakesh Bakshi/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Plot Twists",
+            "abstract": "The best art makes us question the received ideas we’ve internalized and, just maybe, offers us ideas for living differently.",
+            "url": "https://www.nytimes.com/2025/05/10/briefing/plot-twists.html",
+            "uri": "nyt://article/371fead3-f6fb-5bad-8a90-ae57e08e096d",
+            "byline": "By Melissa Kirsch",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T06:04:15-04:00",
+            "created_date": "2025-05-10T06:04:15-04:00",
+            "published_date": "2025-05-10T06:04:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "internal-storyline-no",
+                "Books and Literature",
+                "Menopause",
+                "All Fours (Book)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "July, Miranda"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/11/multimedia/10themorning-nl/11themorning-nl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "María Jesús Contreras"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/11/multimedia/10themorning-nl/11themorning-nl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "María Jesús Contreras"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/11/multimedia/10themorning-nl/11themorning-nl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "María Jesús Contreras"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "canada",
+            "title": "The Shifting Conversation Around Canada’s Opioid Crisis",
+            "abstract": "President Trump’s claims about fentanyl trafficking have played a role in refocusing Canada’s attention on border control.",
+            "url": "https://www.nytimes.com/2025/05/10/world/canada/canada-fentanyl-ports.html",
+            "uri": "nyt://article/4a916a6a-3c19-5760-ae83-02bc4993ee17",
+            "byline": "By Vjosa Isai",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T06:00:06-04:00",
+            "created_date": "2025-05-10T06:00:06-04:00",
+            "published_date": "2025-05-10T06:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10canadaletter-fentanyl1-kwgz/10canadaletter-fentanyl1-kwgz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A member of the Royal Canadian Mounted Police demonstrated equipment used to make fentanyl after labs were dismantled in British Columbia.",
+                    "copyright": "Ethan Cairns/The Canadian Press, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10canadaletter-fentanyl1-kwgz/10canadaletter-fentanyl1-kwgz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A member of the Royal Canadian Mounted Police demonstrated equipment used to make fentanyl after labs were dismantled in British Columbia.",
+                    "copyright": "Ethan Cairns/The Canadian Press, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10canadaletter-fentanyl1-kwgz/10canadaletter-fentanyl1-kwgz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A member of the Royal Canadian Mounted Police demonstrated equipment used to make fentanyl after labs were dismantled in British Columbia.",
+                    "copyright": "Ethan Cairns/The Canadian Press, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "In Pope Leo, Some in MAGA Movement See an Antagonist",
+            "abstract": "While President Trump welcomed the U.S.-born cardinal as the new pope, top Trump allies criticized Leo XIV for his similarities to Pope Francis.",
+            "url": "https://www.nytimes.com/2025/05/09/us/pope-leo-maga-donald-trump-steve-bannon.html",
+            "uri": "nyt://article/5082dcd6-1471-56a0-9480-511223349c9e",
+            "byline": "By Tim Balk",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T23:44:09-04:00",
+            "created_date": "2025-05-09T23:44:09-04:00",
+            "published_date": "2025-05-09T23:44:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Popes",
+                "United States Politics and Government",
+                "Deportation",
+                "Right-Wing Extremism and Alt-Right",
+                "Immigration and Emigration",
+                "Conservatism (US Politics)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Bannon, Stephen K",
+                "Francis",
+                "Leo XIV",
+                "Loomer, Laura"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/pope-maga-mgbq/pope-maga-mgbq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Laura Loomer, center, a far-right activist who holds significant sway with President Trump, described Pope Leo XIV as “anti-Trump, anti-MAGA, pro-open Borders, and a total Marxist” in a social media post on Thursday.",
+                    "copyright": "Federico Rios for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/pope-maga-mgbq/pope-maga-mgbq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Laura Loomer, center, a far-right activist who holds significant sway with President Trump, described Pope Leo XIV as “anti-Trump, anti-MAGA, pro-open Borders, and a total Marxist” in a social media post on Thursday.",
+                    "copyright": "Federico Rios for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/pope-maga-mgbq/pope-maga-mgbq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Laura Loomer, center, a far-right activist who holds significant sway with President Trump, described Pope Leo XIV as “anti-Trump, anti-MAGA, pro-open Borders, and a total Marxist” in a social media post on Thursday.",
+                    "copyright": "Federico Rios for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "A United Front for Pope Leo Among American Cardinals",
+            "abstract": "One cardinal who cast his ballot said the pope’s choice of the papal name Leo might signal a particular interest in workers’ rights.",
+            "url": "https://www.nytimes.com/2025/05/09/us/pope-leo-american-cardinals.html",
+            "uri": "nyt://article/52136baf-65b3-5c64-8c3d-c87b31ba42aa",
+            "byline": "By Elizabeth Dias",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T14:22:25-04:00",
+            "created_date": "2025-05-09T21:23:09-04:00",
+            "published_date": "2025-05-09T21:23:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Popes",
+                "Cardinals (Roman Catholic Prelates)"
+            ],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Cupich, Blase J",
+                "Dolan, Timothy M",
+                "Leo XIV"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/06/09/multimedia/09nat-pope-us-cardinals-top-swap-bwvl/09nat-pope-us-cardinals-top-swap-bwvl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "American cardinals at a news conference in Rome on Friday.",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/06/09/multimedia/09nat-pope-us-cardinals-top-swap-bwvl/09nat-pope-us-cardinals-top-swap-bwvl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "American cardinals at a news conference in Rome on Friday.",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/06/09/multimedia/09nat-pope-us-cardinals-top-swap-bwvl/09nat-pope-us-cardinals-top-swap-bwvl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "American cardinals at a news conference in Rome on Friday.",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "Mexican Mayor Implicated in Drug Cartel Ranch Inquiry",
+            "abstract": "The mayor of Teuchitlán is the first government official to have been arrested in connection with the case. Prosecutors accuse him of colluding with the cartel.",
+            "url": "https://www.nytimes.com/2025/05/09/world/americas/mexico-mayor-arrested-ranch-cartels.html",
+            "uri": "nyt://article/f1930eee-85e9-5efa-b0e7-ca6654057f9f",
+            "byline": "By Emiliano Rodríguez Mega and Maria Abi-Habib",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T21:22:42-04:00",
+            "created_date": "2025-05-09T21:16:23-04:00",
+            "published_date": "2025-05-09T21:16:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drug Cartels"
+            ],
+            "org_facet": [
+                "Jalisco New Generation Cartel"
+            ],
+            "per_facet": [
+                "Sheinbaum, Claudia",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Guadalajara (Mexico)",
+                "Jalisco (Mexico)",
+                "Mexico"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-mexico-mayor01-photo-whbc/00int-mexico-mayor01-photo-whbc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Izaguirre ranch in Teuchitlán, a village near Guadalajara. Attorney General Alejandro Gertz said last week that until recently the ranch had been used by the Jalisco New Generation Cartel for training and recruiting.",
+                    "copyright": "Fred Ramos for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-mexico-mayor01-photo-whbc/00int-mexico-mayor01-photo-whbc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Izaguirre ranch in Teuchitlán, a village near Guadalajara. Attorney General Alejandro Gertz said last week that until recently the ranch had been used by the Jalisco New Generation Cartel for training and recruiting.",
+                    "copyright": "Fred Ramos for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-mexico-mayor01-photo-whbc/00int-mexico-mayor01-photo-whbc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Izaguirre ranch in Teuchitlán, a village near Guadalajara. Attorney General Alejandro Gertz said last week that until recently the ranch had been used by the Jalisco New Generation Cartel for training and recruiting.",
+                    "copyright": "Fred Ramos for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Illinois Voting Record Shows Pope Voted Regularly, and in Both Parties’ Primaries",
+            "abstract": "Pope Leo XIV voted in Democratic primaries in 2008 and 2010 and in three Republican primaries in the years that followed, state records show.",
+            "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-voting-record-illinois.html",
+            "uri": "nyt://article/d1942efb-5e64-569c-9884-0f7571eb0681",
+            "byline": "By Mitch Smith and Catherine OConnor",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T19:17:57-04:00",
+            "created_date": "2025-05-09T19:13:04-04:00",
+            "published_date": "2025-05-09T19:13:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Elections",
+                "Popes",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Leo XIV"
+            ],
+            "geo_facet": [
+                "Illinois"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-voting-record1-hbgm/09pope-blog-voting-record1-hbgm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 813,
+                    "width": 1219,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cardinal Robert Francis Prevost spoke at St. Jude Parish in New Lenox, Ill., in 2024.",
+                    "copyright": "Midwest Augustinian Province of Our Mother of Good Counsel, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-voting-record1-hbgm/09pope-blog-voting-record1-hbgm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cardinal Robert Francis Prevost spoke at St. Jude Parish in New Lenox, Ill., in 2024.",
+                    "copyright": "Midwest Augustinian Province of Our Mother of Good Counsel, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-voting-record1-hbgm/09pope-blog-voting-record1-hbgm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cardinal Robert Francis Prevost spoke at St. Jude Parish in New Lenox, Ill., in 2024.",
+                    "copyright": "Midwest Augustinian Province of Our Mother of Good Counsel, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Francis Connected With Leo Long Ago and Boosted His Career",
+            "abstract": "The two clerics met in South America, and when Francis needed to fill an important job at the Vatican, he knew where to turn.",
+            "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-francis.html",
+            "uri": "nyt://article/c64e6b21-e790-56c2-a23f-8226a872801c",
+            "byline": "By Emma Bubola",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T21:15:36-04:00",
+            "created_date": "2025-05-09T18:54:27-04:00",
+            "published_date": "2025-05-09T18:54:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Leo XIV",
+                "Francis"
+            ],
+            "geo_facet": [
+                "South America",
+                "Peru"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-francis-prevost1-vmzb/09pope-blog-francis-prevost1-vmzb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Francis in 2023, officiating at part of the process of elevating Robert Francis Prevost, now Leo XIV, to cardinal. ",
+                    "copyright": "Riccardo De Luca/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-francis-prevost1-vmzb/09pope-blog-francis-prevost1-vmzb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Francis in 2023, officiating at part of the process of elevating Robert Francis Prevost, now Leo XIV, to cardinal. ",
+                    "copyright": "Riccardo De Luca/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-francis-prevost1-vmzb/09pope-blog-francis-prevost1-vmzb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Francis in 2023, officiating at part of the process of elevating Robert Francis Prevost, now Leo XIV, to cardinal. ",
+                    "copyright": "Riccardo De Luca/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "U.S. Starts Investigation Into Imported Planes and Parts",
+            "abstract": "The Trump administration could use the investigation to impose new tariffs on imported planes, jet engines and other aerospace parts.",
+            "url": "https://www.nytimes.com/2025/05/09/business/trump-tariffs-planes-aviation.html",
+            "uri": "nyt://article/539fe478-ea53-51fb-a9f8-87ae609296c5",
+            "byline": "By Niraj Chokshi",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T18:56:22-04:00",
+            "created_date": "2025-05-09T18:41:31-04:00",
+            "published_date": "2025-05-09T18:41:31-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Airlines and Airplanes",
+                "International Trade and World Market",
+                "United States Politics and Government",
+                "Customs (Tariff)",
+                "United States Economy",
+                "Prices (Fares, Fees and Rates)",
+                "Engines",
+                "Factories and Manufacturing"
+            ],
+            "org_facet": [
+                "Airbus Industrie",
+                "Aerospace Industries Assn",
+                "Boeing Company",
+                "Commerce Department",
+                "European Union"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Lutnick, Howard W",
+                "Ortberg, Robert K"
+            ],
+            "geo_facet": [
+                "Europe",
+                "China",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09biz-tariffs-planes-fgcw/09biz-tariffs-planes-fgcw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1381,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Boeing factory in Everett, Wash. An investigation by the Trump administration into imports of jet engines and other aviation parts could be the first step in the imposition of tariffs on those products.",
+                    "copyright": "Lindsey Wasson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09biz-tariffs-planes-fgcw/09biz-tariffs-planes-fgcw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Boeing factory in Everett, Wash. An investigation by the Trump administration into imports of jet engines and other aviation parts could be the first step in the imposition of tariffs on those products.",
+                    "copyright": "Lindsey Wasson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09biz-tariffs-planes-fgcw/09biz-tariffs-planes-fgcw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Boeing factory in Everett, Wash. An investigation by the Trump administration into imports of jet engines and other aviation parts could be the first step in the imposition of tariffs on those products.",
+                    "copyright": "Lindsey Wasson for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Pope Leo’s Creole Roots Evoke Sense of Connection From Some Catholics of Color",
+            "abstract": "That the new pontiff’s ancestry can be partially traced to a historic enclave of Afro-Caribbean culture in New Orleans has brought joy to some Catholics.",
+            "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-xiv-creole-ancestry.html",
+            "uri": "nyt://article/02504916-6e6e-5385-ad15-5a216f308852",
+            "byline": "By John Eligon",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T09:03:42-04:00",
+            "created_date": "2025-05-09T18:10:53-04:00",
+            "published_date": "2025-05-09T18:10:53-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Popes",
+                "Minorities",
+                "Black People",
+                "Clergy"
+            ],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Leo XIV"
+            ],
+            "geo_facet": [
+                "Africa",
+                "Brazil",
+                "Caribbean Area",
+                "New Orleans (La)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-race-reax-top-qpfm/09pope-blog-race-reax-top-qpfm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1365,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leo XIV, the first American-born pope, on the balcony of St. Peter’s Basilica on Thursday.",
+                    "copyright": "Gregorio Borgia/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-race-reax-top-qpfm/09pope-blog-race-reax-top-qpfm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leo XIV, the first American-born pope, on the balcony of St. Peter’s Basilica on Thursday.",
+                    "copyright": "Gregorio Borgia/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-race-reax-top-qpfm/09pope-blog-race-reax-top-qpfm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Leo XIV, the first American-born pope, on the balcony of St. Peter’s Basilica on Thursday.",
+                    "copyright": "Gregorio Borgia/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "There Is No ‘Energy Emergency,’ a New Lawsuit Claims",
+            "abstract": "In the suit, 15 Democratic states called Trump’s declaration illegal and said federal agencies were rushing permits for fossil fuel projects under false pretenses.",
+            "url": "https://www.nytimes.com/2025/05/09/climate/energy-emergency-lawsuit.html",
+            "uri": "nyt://article/31392891-b45d-5535-bd3b-f42f2a1b6184",
+            "byline": "By Karen Zraick",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T17:45:56-04:00",
+            "created_date": "2025-05-09T17:45:56-04:00",
+            "published_date": "2025-05-09T17:45:56-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Federal-State Relations (US)",
+                "United States Politics and Government",
+                "Suits and Litigation (Civil)",
+                "Executive Orders and Memorandums",
+                "Environment",
+                "Regulation and Deregulation of Industry",
+                "War and Emergency Powers (US)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09cli-emergency-lawsuit-ltjp/09cli-emergency-lawsuit-ltjp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drilling gear being stored in Texas in 2021. Energy production in the United States is at a record high.",
+                    "copyright": "Tamir Kalifa for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09cli-emergency-lawsuit-ltjp/09cli-emergency-lawsuit-ltjp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drilling gear being stored in Texas in 2021. Energy production in the United States is at a record high.",
+                    "copyright": "Tamir Kalifa for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09cli-emergency-lawsuit-ltjp/09cli-emergency-lawsuit-ltjp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Drilling gear being stored in Texas in 2021. Energy production in the United States is at a record high.",
+                    "copyright": "Tamir Kalifa for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Four European Leaders Arrive in Ukraine in First Joint Visit",
+            "abstract": "On Saturday, the leaders of four major European powers — France, Germany, Britain and Poland — traveled to Kyiv in a display of European unity.",
+            "url": "https://www.nytimes.com/2025/05/09/world/europe/four-european-countries-visit-ukraine.html",
+            "uri": "nyt://article/219d4bb4-92e7-5c00-ab2b-5e4709702fbd",
+            "byline": "By Stephen Castle",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T03:25:05-04:00",
+            "created_date": "2025-05-09T17:30:04-04:00",
+            "published_date": "2025-05-09T17:30:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "Russian Invasion of Ukraine (2022)",
+                "Peace Process",
+                "United States International Relations",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Macron, Emmanuel (1977- )",
+                "Putin, Vladimir V",
+                "Merz, Friedrich",
+                "Starmer, Keir",
+                "Trump, Donald J",
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Europe",
+                "Kyiv (Ukraine)",
+                "Russia",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-ukraine-leaders-1-qzwj/09int-ukraine-leaders-1-qzwj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chancellor Friedrich Merz of Germany and President Emmanuel Macron of France, in Paris on Wednesday.",
+                    "copyright": "Pool photo by Ludovic Marin"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-ukraine-leaders-1-qzwj/09int-ukraine-leaders-1-qzwj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chancellor Friedrich Merz of Germany and President Emmanuel Macron of France, in Paris on Wednesday.",
+                    "copyright": "Pool photo by Ludovic Marin"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-ukraine-leaders-1-qzwj/09int-ukraine-leaders-1-qzwj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chancellor Friedrich Merz of Germany and President Emmanuel Macron of France, in Paris on Wednesday.",
+                    "copyright": "Pool photo by Ludovic Marin"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "On the Role of Women in Church Leadership, Leo Has Followed Francis’ Lead",
+            "abstract": "The new pope opposed letting women serve as deacons but endorsed some of his predecessor’s moves to expand their involvement.",
+            "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-women-catholic-church.html",
+            "uri": "nyt://article/0484fda1-8ac4-52e7-8a65-8962bc23e637",
+            "byline": "By Patricia Mazzei",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T17:30:03-04:00",
+            "created_date": "2025-05-09T17:30:03-04:00",
+            "published_date": "2025-05-09T17:30:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Clergy",
+                "Popes",
+                "Women and Girls",
+                "Cardinals (Roman Catholic Prelates)"
+            ],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Leo XIV",
+                "Francis"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-leo-women1-ljgk/09pope-blog-leo-women1-ljgk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bishop Robert Prevost offered Mass in Motupe, Peru, in 2018.",
+                    "copyright": "Julio Reano/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-leo-women1-ljgk/09pope-blog-leo-women1-ljgk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bishop Robert Prevost offered Mass in Motupe, Peru, in 2018.",
+                    "copyright": "Julio Reano/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-leo-women1-ljgk/09pope-blog-leo-women1-ljgk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bishop Robert Prevost offered Mass in Motupe, Peru, in 2018.",
+                    "copyright": "Julio Reano/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "As a Child, the Future Pope Leo Played Priest",
+            "abstract": "The pope’s eldest brother, Louis Prevost, remembering their boyhood in Illinois from his home in Florida, said that the pontiff had always been a peacemaker.",
+            "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-xiv-brother-louis-prevost.html",
+            "uri": "nyt://article/a6f1debe-3d66-54e6-ab7d-f168a9df6330",
+            "byline": "By Charles Ballaro, Halina Bennet and Jacey Fortin",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T16:56:30-04:00",
+            "created_date": "2025-05-09T16:56:30-04:00",
+            "published_date": "2025-05-09T16:56:30-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "Roman Catholic Church",
+                "Led Zeppelin"
+            ],
+            "per_facet": [
+                "Leo XIV"
+            ],
+            "geo_facet": [
+                "Chicago (Ill)",
+                "Port Charlotte (Fla)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-florida-brother-1-lctb/09pope-blog-florida-brother-1-lctb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1638,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“He’ll do a bang-up job,” said Louis Prevost, the eldest brother of the man who is now Pope Leo XIV.",
+                    "copyright": "Zack Wittman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-florida-brother-1-lctb/09pope-blog-florida-brother-1-lctb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“He’ll do a bang-up job,” said Louis Prevost, the eldest brother of the man who is now Pope Leo XIV.",
+                    "copyright": "Zack Wittman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-florida-brother-1-lctb/09pope-blog-florida-brother-1-lctb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“He’ll do a bang-up job,” said Louis Prevost, the eldest brother of the man who is now Pope Leo XIV.",
+                    "copyright": "Zack Wittman for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Pope Leo XIV Echoes Francis in His First Mass, Aligning Himself With ‘Ordinary People’",
+            "abstract": "In his advocacy of the poor, migrants and a more open church, many people see the new pope as a continuation of his predecessor.",
+            "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-mass-catholic-church.html",
+            "uri": "nyt://article/233f6e84-5a5c-53da-a2cf-a7f560976d5e",
+            "byline": "By Jason Horowitz, Elizabeth Dias, Emma Bubola and Richard Pérez-Peña",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T21:19:32-04:00",
+            "created_date": "2025-05-09T16:48:11-04:00",
+            "published_date": "2025-05-09T16:48:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Popes",
+                "Religion and Belief",
+                "Religion-State Relations",
+                "Clergy",
+                "Poverty",
+                "Immigration and Emigration"
+            ],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Leo XIV",
+                "Francis"
+            ],
+            "geo_facet": [
+                "United States",
+                "Chicago (Ill)",
+                "Peru"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-pope-ledeall-gbtq/09int-pope-ledeall-gbtq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Leo XIV celebrated Mass in the Sistine Chapel at the Vatican on Friday.",
+                    "copyright": "Francesco Sforza/Vatican Media, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-pope-ledeall-gbtq/09int-pope-ledeall-gbtq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Leo XIV celebrated Mass in the Sistine Chapel at the Vatican on Friday.",
+                    "copyright": "Francesco Sforza/Vatican Media, via Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-pope-ledeall-gbtq/09int-pope-ledeall-gbtq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Leo XIV celebrated Mass in the Sistine Chapel at the Vatican on Friday.",
+                    "copyright": "Francesco Sforza/Vatican Media, via Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Here are 6 times when popes shaped history, for better or worse.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/here-are-6-times-when-popes-shaped-history-for-better-or-worse",
+            "uri": "nyt://article/92f4de22-ee96-5c87-8374-7ed81c0a9f26",
+            "byline": "By Talya Minsberg and Matthew Mpoke Bigg",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T16:41:11-04:00",
+            "created_date": "2025-05-09T16:39:04-04:00",
+            "published_date": "2025-05-09T16:39:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/07/world/07pope-conclave-papal-history/07pope-conclave-papal-history-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1320,
+                    "width": 2040,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope John Paul II blessing the crowd during a visit to Poland in 1997. He played an important role in the end of Communism in Eastern Europe.",
+                    "copyright": "Vatican Pool, via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/07/world/07pope-conclave-papal-history/07pope-conclave-papal-history-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope John Paul II blessing the crowd during a visit to Poland in 1997. He played an important role in the end of Communism in Eastern Europe.",
+                    "copyright": "Vatican Pool, via Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/07/world/07pope-conclave-papal-history/07pope-conclave-papal-history-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope John Paul II blessing the crowd during a visit to Poland in 1997. He played an important role in the end of Communism in Eastern Europe.",
+                    "copyright": "Vatican Pool, via Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "India and Pakistan Escalate Attacks to Military Bases",
+            "abstract": "Pakistan accused India of launching air-to-surface missiles that targeted at least three bases. Soon after, Pakistani officials said retaliatory action against Indian bases had begun.",
+            "url": "https://www.nytimes.com/2025/05/09/world/asia/india-pakistan-kashmir-drones.html",
+            "uri": "nyt://article/874162c2-71bd-5ae8-acbb-1603e656fd1a",
+            "byline": "By Anupreeta Das and Salman Masood",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T14:43:40-04:00",
+            "created_date": "2025-05-09T16:31:40-04:00",
+            "published_date": "2025-05-09T16:31:40-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Defense and Military Forces",
+                "Military Bases and Installations",
+                "Drones (Pilotless Planes)",
+                "Missiles and Missile Defense Systems",
+                "Terrorism",
+                "Territorial Disputes",
+                "Nuclear Weapons",
+                "International Relations",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "India",
+                "Pakistan",
+                "Kashmir"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09INT-INDIA-PAKISTAN-LEDEALL-fcjh/09INT-INDIA-PAKISTAN-LEDEALL-fcjh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Streaks in the skies over Jammu, a city in the part of Kashmir that India controls. Residents reported a blackout and sounds of explosions on Friday.",
+                    "copyright": "Anindito Mukherjee/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09INT-INDIA-PAKISTAN-LEDEALL-fcjh/09INT-INDIA-PAKISTAN-LEDEALL-fcjh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Streaks in the skies over Jammu, a city in the part of Kashmir that India controls. Residents reported a blackout and sounds of explosions on Friday.",
+                    "copyright": "Anindito Mukherjee/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09INT-INDIA-PAKISTAN-LEDEALL-fcjh/09INT-INDIA-PAKISTAN-LEDEALL-fcjh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Streaks in the skies over Jammu, a city in the part of Kashmir that India controls. Residents reported a blackout and sounds of explosions on Friday.",
+                    "copyright": "Anindito Mukherjee/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Leo XIV’s first words set a pastoral tone, acknowledging tradition.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/leo-xivs-first-words-set-a-pastoral-tone-acknowledging-tradition",
+            "uri": "nyt://article/26ae0204-a37a-5b6f-9933-61e095c66ac5",
+            "byline": "By Elisabetta Povoledo",
+            "item_type": "Article",
+            "updated_date": "2025-05-09T15:50:14-04:00",
+            "created_date": "2025-05-09T15:29:52-04:00",
+            "published_date": "2025-05-09T15:29:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Leo XIV",
+                "John XXIII"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-first-address-01-gtpb/09pope-blog-first-address-01-gtpb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Leo XIV spoke from the balcony of St. Peter’s Basilica for the first time on Thursday. ",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-first-address-01-gtpb/09pope-blog-first-address-01-gtpb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Leo XIV spoke from the balcony of St. Peter’s Basilica for the first time on Thursday. ",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-first-address-01-gtpb/09pope-blog-first-address-01-gtpb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pope Leo XIV spoke from the balcony of St. Peter’s Basilica for the first time on Thursday. ",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "On Red Square, Putin Enlists Russian Pride for His War in Ukraine",
+            "abstract": "The military parade marking the Soviet victory over Nazi Germany was intended to impress allies and tap into Russia’s deep sense of national pride.",
+            "url": "https://www.nytimes.com/2025/05/09/world/europe/russia-victory-day-parade-red-square.html",
+            "uri": "nyt://article/a50b9ec5-5602-547b-bc1f-ac78decba45f",
+            "byline": "By Anatoly Kurmanaev",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T16:26:20-04:00",
+            "created_date": "2025-05-09T14:35:45-04:00",
+            "published_date": "2025-05-09T14:35:45-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Defense and Military Forces",
+                "Military Vehicles",
+                "Parades",
+                "World War II (1939-45)",
+                "Russian Invasion of Ukraine (2022)",
+                "Embargoes and Sanctions",
+                "United States International Relations"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia",
+                "USSR (Former Soviet Union)",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09russia-scene-1-lwmc/09russia-scene-1-lwmc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Russian service members at the Victory Day parade in Moscow on Friday.",
+                    "copyright": "Alexander Zemlianichenko/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09russia-scene-1-lwmc/09russia-scene-1-lwmc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Russian service members at the Victory Day parade in Moscow on Friday.",
+                    "copyright": "Alexander Zemlianichenko/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09russia-scene-1-lwmc/09russia-scene-1-lwmc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Russian service members at the Victory Day parade in Moscow on Friday.",
+                    "copyright": "Alexander Zemlianichenko/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "An American Pope Emerges as a Potential Contrast to Trump on the World Stage",
+            "abstract": "Pope Leo XIV’s focus on refugees and his pluralistic background may offer a different view of U.S. values from the president’s America First approach.",
+            "url": "https://www.nytimes.com/2025/05/09/us/politics/pope-leo-trump.html",
+            "uri": "nyt://article/eff4c9ad-a0ef-52b1-8497-d52f3a7e7ead",
+            "byline": "By Tyler Pager",
+            "item_type": "Article",
+            "updated_date": "2025-05-10T10:03:12-04:00",
+            "created_date": "2025-05-09T14:25:53-04:00",
+            "published_date": "2025-05-09T14:25:53-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Popes",
+                "Religion-State Relations",
+                "United States International Relations",
+                "United States Politics and Government",
+                "Polls and Public Opinion",
+                "Immigration and Emigration"
+            ],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Leo XIV",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09dc-trump-pope1-ckwg/09dc-trump-pope1-ckwg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Americans cheered the announcement of Cardinal Robert Francis Prevost as the new pope on Thursday. Other spectators were bewildered when his identity emerged.",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09dc-trump-pope1-ckwg/09dc-trump-pope1-ckwg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Americans cheered the announcement of Cardinal Robert Francis Prevost as the new pope on Thursday. Other spectators were bewildered when his identity emerged.",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09dc-trump-pope1-ckwg/09dc-trump-pope1-ckwg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Americans cheered the announcement of Cardinal Robert Francis Prevost as the new pope on Thursday. Other spectators were bewildered when his identity emerged.",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Use an official Python runtime based on Debian 12 "bookworm" as a parent image.
 FROM python:3.12-slim-bookworm
 
@@ -59,3 +60,9 @@ USER wagtail
 #   phase facilities of your hosting platform. This is used only so the
 #   Wagtail instance can be started with a simple "docker run" command.
 #CMD set -xe; python manage.py migrate --noinput; gunicorn www.wsgi:application
+=======
+
+FROM python:3
+COPY wordle.py wordle_eng.txt /
+CMD ["python", "./wordle.py"]
+>>>>>>> Stashed changes

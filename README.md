@@ -1,4 +1,4 @@
-# 📰 Wordle NYT - Daily Game with Real Articles
+# 📰 Daily News Wordle - Wordle with Real Articles
 
 This project is a Wordle-style guessing game where the player must guess a five-letter word, **extracted from a real New York Times article**. The game updates daily, and each level corresponds to a different article. After each round, the player sees the article's title, abstract, and a link to the original.
 
@@ -51,8 +51,4 @@ This project is a Wordle-style guessing game where the player must guess a five-
 
 ## 📝 Installation
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/rvpmin/daily_news_wordle.git
-   cd wordle-nyt
 

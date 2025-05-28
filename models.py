@@ -63,8 +63,6 @@ class Article(models.Model):
     per_facet = models.TextField(null=True, blank=True)
     geo_facet = models.TextField(null=True, blank=True)'''
 
-
-
 class GameLevel(models.Model):
     daily_game = models.ForeignKey(WordleGame,
                                    on_delete=models.CASCADE,

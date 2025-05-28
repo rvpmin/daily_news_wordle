@@ -1,6 +1,29 @@
 from django.db import models
 from wagtail.admin.panels import FieldPanel, InlinePanel
 from wagtail.models import Page
+from modelcluster.fields import ParentalKey
+
+
+class DailyGame(Page):
+    date = models.DateField(unique=True)
+    is_active = models.BooleanField(default=True)
+    articles = models.ManyToManyField('Article', through='GameArticle')
+
+    content_panels = Page.content_panels + [
+        FieldPanel('date'),
+        FieldPanel('is_active'),
+        FieldPanel('articles', heading='Articulos del juego'),
+    ]
+
+
+class GameArticle(models.Model):
+    game = models.ForeignKey(DailyGame, on_delete=models.CASCADE, related_name='game_articles')
+    article = models.ForeignKey('Article', on_delete=models.CASCADE)
+    level_number = models.PositiveIntegerField()
+
+    class Meta:
+        ordering = ['level_number']
+
 
 class WordleGame(Page):
 
@@ -30,18 +53,16 @@ class WordleGame(Page):
 
 
 class Article(models.Model):
-    article_id = models.CharField(
-        max_length=300,
-        unique=True,
-    )
+    url = models.URLField(unique=True)
     date_processed = models.DateField()
     title = models.CharField(max_length=255)
     abstract = models.TextField()
-    des_facet = models.TextField()
-    org_facet = models.TextField()
-    per_facet = models.TextField()
-    geo_facet = models.TextField()
-    url = models.URLField()
+    target_word = models.CharField(max_length=10)
+    '''des_facet = models.TextField(null=True, blank=True)
+    org_facet = models.TextField(null=True, blank=True)
+    per_facet = models.TextField(null=True, blank=True)
+    geo_facet = models.TextField(null=True, blank=True)'''
+
 
 
 class GameLevel(models.Model):
@@ -49,8 +70,9 @@ class GameLevel(models.Model):
                                    on_delete=models.CASCADE,
                                    related_name='levels',
     )
+    article = models.ForeignKey(Article, on_delete=models.CASCADE)
     level_number = models.PositiveIntegerField()
-    target_word = models.CharField(max_length=10)
 
     class Meta:
         unique_together = ('daily_game', 'level_number')
+

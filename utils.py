@@ -1,10 +1,8 @@
-from mimetypes import guess_extension
-
 import requests
 import os
 from django.conf import settings
 from django.core.cache import cache
-from collections import defaultdict
+from collections import defaultdict, Counter
 import random
 from .models import Article
 from datetime import datetime
@@ -29,13 +27,13 @@ def fetch_nyt_api():
         return None
 
 
-
 def process_articles(data):
     date = data['last_updated']
     random.seed(0)
     num_articles = 5
     articles = random.sample(data['results'], k=num_articles)
     processed = []
+    backup_words = ['filth', 'daunt', 'color', 'incur', 'pixie', 'crane', 'adieu', 'audio', 'house', 'water']
 
     for article in articles:
         try:
@@ -46,17 +44,18 @@ def process_articles(data):
                 if len(''.join([c for c in word if c.isalpha()])) == 5
             ]
             if not filtered_words:
-                filtered_words = ['filth', 'daunt', 'color', 'incur', 'pixie']
+                filtered_words = backup_words
 
             target_word = random.choice(filtered_words)
 
-            processed_date = make_aware(
-                datetime.strptime(date, '%Y-%m-%d')
-            ) if isinstance(date, str) else date
+            if isinstance(date, str):
+                processed_date = datetime.strptime(date, "%Y-%m-%dT%H:%M:%S%z")
+            else:
+                processed_date = date
 
             processed_article, created = Article.objects.update_or_create(
-                url = article['url'],
-                defaults = {
+                url=article['url'],
+                defaults={
                     'title': article['title'],
                     'abstract': article['abstract'],
                     'date_processed': processed_date,
@@ -67,16 +66,10 @@ def process_articles(data):
             )
             processed.append(processed_article)
 
-            if not created:
-                processed_article.title = article['title']
-                processed_article.save()
-
-
         except Exception as e:
-            print(f'Error processing article {article.get["url"]}', e)
+            print(f'Error processing article {article.get("url", "unknown")}', {str(e)})
             continue
     return processed
-
 
 
 def find_words_in_article(article):
@@ -91,47 +84,42 @@ def find_words_in_article(article):
     return [word for word in words if len(word) == 5]
 
 
-
 class WordleGameEngine:
     def __init__(self, word, max_guesses=6):
         self.word = word.lower()
         self.max_guesses = max_guesses
-        self.word_dict = self.create_word_dict(self.word)
         self.guesses = []
-
-    @staticmethod
-    def create_word_dict(word):
-        word_dict = defaultdict(set)
-        for index, letter in enumerate(word):
-            word_dict[letter].add(index)
-        return word_dict
 
     def evaluate_guess(self, guess):
         guess = guess.lower()
+        result = ['missing'] * len(self.word)
 
-        guess_result = ['missing' for _ in range(len(self.word))]
-        matched_positions = set()
+        target = list(self.word)
+        guess_letters = list(guess)
 
-        # Only check correct placements
-        for pos in range(len(self.word)):
-            if guess[pos] in self.word_dict and pos in self.word_dict[guess[pos]]:
-                guess_result[pos] = 'correct'
-                matched_positions.add(pos)
+        word_counter = Counter(target)
 
-        # Check present placements
-        for pos in range(len(self.word)):
-            if guess_result[pos] == 'missing' and guess[pos] in self.word_dict:
-                for correct_pos in self.word_dict[guess[pos]]:
-                    if correct_pos not in matched_positions:
-                        guess_result[pos] = 'present'
-                        matched_positions.add(pos)
+        # Paso 1: marcar letras correctas (posición exacta)
+        for i in range(len(guess_letters)):
+            if guess_letters[i] == target[i]:
+                result[i] = 'correct'
+                word_counter[guess_letters[i]] -= 1
 
-        self.guesses.append({'guess': guess, 'result': guess_result})
+        # Paso 2: marcar letras presentes (posición incorrecta)
+        for i in range(len(guess_letters)):
+            if result[i] == 'missing' and word_counter[guess_letters[i]] > 0:
+                result[i] = 'present'
+                word_counter[guess_letters[i]] -= 1
+
+        self.guesses.append({'guess': guess, 'result': result})
 
         if guess == self.word:
             return {'status': 'won', 'guessed': self.guesses}
         elif len(self.guesses) >= self.max_guesses:
-            return {'status': 'lost','word':self.word , 'guessed': self.guesses}
+            return {'status': 'lost', 'word': self.word, 'guessed': self.guesses}
         else:
-            return {'status': 'continue', 'current_guess':len(self.guesses), 'result':guess_result}
-
+            return {
+                'status': 'continue',
+                'current_guess': len(self.guesses),
+                'result': result
+            }
